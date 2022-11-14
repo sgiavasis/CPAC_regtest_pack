@@ -1,0 +1,1128 @@
+- anat:
+    T1w: /media/ebs/data/HBN/RBC_exemplar/sub-NDARXY162ERA/ses-HBNsiteRU/anat/sub-NDARXY162ERA_ses-HBNsiteRU_acq-HCP_T1w.nii.gz
+    T2w: /media/ebs/data/HBN/RBC_exemplar/sub-NDARXY162ERA/ses-HBNsiteRU/anat/sub-NDARXY162ERA_ses-HBNsiteRU_acq-HCP_T2w.nii.gz
+  creds_path: null
+  func:
+    movieDM:
+      scan: /media/ebs/data/HBN/RBC_exemplar/sub-NDARXY162ERA/ses-HBNsiteRU/func/sub-NDARXY162ERA_ses-HBNsiteRU_task-movieDM_bold.nii.gz
+      scan_parameters:
+        AcquisitionMatrixPE: 84
+        BandwidthPerPixelPhaseEncode: 20.525
+        BaseResolution: 84
+        ConversionSoftware: !!binary |
+          ZGNtMm5paXg=
+        ConversionSoftwareVersion: !!binary |
+          djEuMC4yMDE3MTIwNCAoT3BlbkpQRUcgYnVpbGQpIEdDQzQuOC40
+        DerivedVendorReportedEchoSpacing: 0.000580013
+        Dim1Size: 84
+        Dim2Size: 84
+        Dim3Size: 60
+        DwellTime: 2.6e-06
+        EchoTime: 0.03
+        EffectiveEchoSpacing: 0.000580013
+        FlipAngle: 31
+        ImageComments: !!binary |
+          VW5hbGlhc2VkX01CNl9QRTNfTEJfKHJlbW90ZSk=
+        ImageOrientationPatientDICOM:
+        - 0.99995
+        - -0.00286713
+        - -0.00961706
+        - -2.54523e-09
+        - 0.958318
+        - -0.285703
+        ImageType:
+        - ORIGINAL
+        - PRIMARY
+        - M
+        - MB
+        - ND
+        - MOSAIC
+        InPlanePhaseEncodingDirectionDICOM: !!binary |
+          Q09M
+        MRAcquisitionType: !!binary |
+          MkQ=
+        MagneticFieldStrength: 3
+        Manufacturer: !!binary |
+          U2llbWVucw==
+        ManufacturersModelName: !!binary |
+          VHJpb1RpbQ==
+        Modality: !!binary |
+          TVI=
+        MultibandAccelerationFactor: 6
+        NumVolumes: 750
+        Obliquity: !!binary |
+          VHJ1ZQ==
+        PartialFourier: 1
+        PatientPosition: !!binary |
+          SEZT
+        PercentPhaseFOV: 100
+        PhaseEncodingDirection: !!binary |
+          ai0=
+        PhaseEncodingSteps: 84
+        PhaseResolution: 1
+        PixelBandwidth: 2289
+        ProcedureStepDescription: !!binary |
+          Q01JX0hCTg==
+        ProtocolName: !!binary |
+          TU9WSUU=
+        PulseSequenceDetails: !!binary |
+          JUN1c3RvbWVyU2VxJV9jbXJyX21iZXAyZF9ib2xk
+        ReceiveCoilName: !!binary |
+          MzJDaF9IZWFk
+        ReconMatrixPE: 84
+        RepetitionTime: 0.8
+        SAR: 0.142847
+        ScanOptions: !!binary |
+          RlM=
+        ScanningSequence: !!binary |
+          RVA=
+        SequenceName: !!binary |
+          ZXBmaWQyZDFfODQ=
+        SequenceVariant: !!binary |
+          U0tfU1M=
+        SeriesDescription: !!binary |
+          TU9WSUU=
+        ShimSetting:
+        - 2090
+        - -636
+        - -7669
+        - 1106
+        - 320
+        - 215
+        - 269
+        - -151
+        SliceThickness: 2.4
+        SliceTiming:
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        SoftwareVersions: !!binary |
+          c3luZ29fTVJfQjE5
+        SpacingBetweenSlices: 2.4
+        TaskName: !!binary |
+          bW92aWVETQ==
+        TotalReadoutTime: 0.0481411
+        TxRefAmp: 315.071
+        VoxelSizeDim1: 2.4285714626312256
+        VoxelSizeDim2: 2.4285714626312256
+        VoxelSizeDim3: 2.4000000953674316
+    movieTP_acq-VARIANTPhaseEncodingDirection:
+      scan: /media/ebs/data/HBN/RBC_exemplar/sub-NDARXY162ERA/ses-HBNsiteRU/func/sub-NDARXY162ERA_ses-HBNsiteRU_task-movieTP_acq-VARIANTPhaseEncodingDirection_bold.nii.gz
+      scan_parameters:
+        AcquisitionMatrixPE: 84
+        BandwidthPerPixelPhaseEncode: 20.525
+        BaseResolution: 84
+        ConversionSoftware: !!binary |
+          ZGNtMm5paXg=
+        ConversionSoftwareVersion: !!binary |
+          djEuMC4yMDE3MTIwNCAoT3BlbkpQRUcgYnVpbGQpIEdDQzQuOC40
+        DerivedVendorReportedEchoSpacing: 0.000580013
+        Dim1Size: 84
+        Dim2Size: 84
+        Dim3Size: 60
+        DwellTime: 2.6e-06
+        EchoTime: 0.03
+        EffectiveEchoSpacing: 0.000580013
+        FlipAngle: 31
+        ImageComments: !!binary |
+          VW5hbGlhc2VkX01CNl9QRTNfTEJfKHJlbW90ZSk=
+        ImageOrientationPatientDICOM:
+        - -0.0104738
+        - 0.999945
+        - -1.78722e-08
+        - -0.0191953
+        - -0.000201076
+        - -0.999816
+        ImageType:
+        - ORIGINAL
+        - PRIMARY
+        - M
+        - MB
+        - ND
+        - MOSAIC
+        InPlanePhaseEncodingDirectionDICOM: !!binary |
+          Uk9X
+        MRAcquisitionType: !!binary |
+          MkQ=
+        MagneticFieldStrength: 3
+        Manufacturer: !!binary |
+          U2llbWVucw==
+        ManufacturersModelName: !!binary |
+          VHJpb1RpbQ==
+        Modality: !!binary |
+          TVI=
+        MultibandAccelerationFactor: 6
+        NumVolumes: 250
+        Obliquity: !!binary |
+          VHJ1ZQ==
+        PartialFourier: 1
+        PatientPosition: !!binary |
+          SEZT
+        PercentPhaseFOV: 100
+        PhaseEncodingDirection: !!binary |
+          aQ==
+        PhaseEncodingSteps: 84
+        PhaseResolution: 1
+        PixelBandwidth: 2289
+        ProcedureStepDescription: !!binary |
+          Q01JX0hCTg==
+        ProtocolName: !!binary |
+          TU9WSUVfMg==
+        PulseSequenceDetails: !!binary |
+          JUN1c3RvbWVyU2VxJV9jbXJyX21iZXAyZF9ib2xk
+        ReceiveCoilName: !!binary |
+          MzJDaF9IZWFk
+        ReconMatrixPE: 84
+        RepetitionTime: 0.8
+        SAR: 0.141519
+        ScanOptions: !!binary |
+          RlM=
+        ScanningSequence: !!binary |
+          RVA=
+        SequenceName: !!binary |
+          ZXBmaWQyZDFfODQ=
+        SequenceVariant: !!binary |
+          U0tfU1M=
+        SeriesDescription: !!binary |
+          TU9WSUVfMg==
+        ShimSetting:
+        - 2087
+        - -645
+        - -7673
+        - 990
+        - 291
+        - 175
+        - 277
+        - -148
+        SliceThickness: 2.4
+        SliceTiming:
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4025
+        - 0.16
+        - 0.7225
+        - 0.4825
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4025
+        - 0.16
+        - 0.7225
+        - 0.4825
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4025
+        - 0.16
+        - 0.7225
+        - 0.4825
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4025
+        - 0.16
+        - 0.7225
+        - 0.4825
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4025
+        - 0.16
+        - 0.7225
+        - 0.4825
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4025
+        - 0.16
+        - 0.7225
+        - 0.4825
+        - 0.24
+        SoftwareVersions: !!binary |
+          c3luZ29fTVJfQjE5
+        SpacingBetweenSlices: 2.4
+        TaskName: !!binary |
+          bW92aWVUUA==
+        TotalReadoutTime: 0.0481411
+        TxRefAmp: 315.071
+        VoxelSizeDim1: 2.4285714626312256
+        VoxelSizeDim2: 2.4285714626312256
+        VoxelSizeDim3: 2.3999998569488525
+    peer_run-1:
+      scan: /media/ebs/data/HBN/RBC_exemplar/sub-NDARXY162ERA/ses-HBNsiteRU/func/sub-NDARXY162ERA_ses-HBNsiteRU_task-peer_run-1_bold.nii.gz
+      scan_parameters:
+        AcquisitionMatrixPE: 84
+        BandwidthPerPixelPhaseEncode: 20.525
+        BaseResolution: 84
+        ConversionSoftware: !!binary |
+          ZGNtMm5paXg=
+        ConversionSoftwareVersion: !!binary |
+          djEuMC4yMDE3MTIwNCAoT3BlbkpQRUcgYnVpbGQpIEdDQzQuOC40
+        DerivedVendorReportedEchoSpacing: 0.000580013
+        Dim1Size: 84
+        Dim2Size: 84
+        Dim3Size: 60
+        DwellTime: 2.6e-06
+        EchoTime: 0.03
+        EffectiveEchoSpacing: 0.000580013
+        FlipAngle: 31
+        ImageComments: !!binary |
+          VW5hbGlhc2VkX01CNl9QRTNfTEJfKHJlbW90ZSk=
+        ImageOrientationPatientDICOM:
+        - 0.99995
+        - -0.00286713
+        - -0.00961706
+        - -2.54523e-09
+        - 0.958318
+        - -0.285703
+        ImageType:
+        - ORIGINAL
+        - PRIMARY
+        - M
+        - MB
+        - ND
+        - MOSAIC
+        InPlanePhaseEncodingDirectionDICOM: !!binary |
+          Q09M
+        MRAcquisitionType: !!binary |
+          MkQ=
+        MagneticFieldStrength: 3
+        Manufacturer: !!binary |
+          U2llbWVucw==
+        ManufacturersModelName: !!binary |
+          VHJpb1RpbQ==
+        Modality: !!binary |
+          TVI=
+        MultibandAccelerationFactor: 6
+        NumVolumes: 135
+        Obliquity: !!binary |
+          VHJ1ZQ==
+        PartialFourier: 1
+        PatientPosition: !!binary |
+          SEZT
+        PercentPhaseFOV: 100
+        PhaseEncodingDirection: !!binary |
+          ai0=
+        PhaseEncodingSteps: 84
+        PhaseResolution: 1
+        PixelBandwidth: 2289
+        ProcedureStepDescription: !!binary |
+          Q01JX0hCTg==
+        ProtocolName: !!binary |
+          UEVFUjI=
+        PulseSequenceDetails: !!binary |
+          JUN1c3RvbWVyU2VxJV9jbXJyX21iZXAyZF9ib2xk
+        ReceiveCoilName: !!binary |
+          MzJDaF9IZWFk
+        ReconMatrixPE: 84
+        RepetitionTime: 0.8
+        SAR: 0.139054
+        ScanOptions: !!binary |
+          RlM=
+        ScanningSequence: !!binary |
+          RVA=
+        SequenceName: !!binary |
+          ZXBmaWQyZDFfODQ=
+        SequenceVariant: !!binary |
+          U0tfU1M=
+        SeriesDescription: !!binary |
+          UEVFUjI=
+        ShimSetting:
+        - 2090
+        - -636
+        - -7669
+        - 1106
+        - 320
+        - 215
+        - 269
+        - -151
+        SliceThickness: 2.4
+        SliceTiming:
+        - 0
+        - 0.5625
+        - 0.3225
+        - 0.0825
+        - 0.6425
+        - 0.4025
+        - 0.1625
+        - 0.7225
+        - 0.4825
+        - 0.2425
+        - 0
+        - 0.5625
+        - 0.3225
+        - 0.0825
+        - 0.6425
+        - 0.4025
+        - 0.1625
+        - 0.7225
+        - 0.4825
+        - 0.2425
+        - 0
+        - 0.5625
+        - 0.3225
+        - 0.0825
+        - 0.6425
+        - 0.4025
+        - 0.1625
+        - 0.7225
+        - 0.4825
+        - 0.2425
+        - 0
+        - 0.5625
+        - 0.3225
+        - 0.0825
+        - 0.6425
+        - 0.4025
+        - 0.1625
+        - 0.7225
+        - 0.4825
+        - 0.2425
+        - 0
+        - 0.5625
+        - 0.3225
+        - 0.0825
+        - 0.6425
+        - 0.4025
+        - 0.1625
+        - 0.7225
+        - 0.4825
+        - 0.2425
+        - 0
+        - 0.5625
+        - 0.3225
+        - 0.0825
+        - 0.6425
+        - 0.4025
+        - 0.1625
+        - 0.7225
+        - 0.4825
+        - 0.2425
+        SoftwareVersions: !!binary |
+          c3luZ29fTVJfQjE5
+        SpacingBetweenSlices: 2.4
+        TaskName: !!binary |
+          cGVlcg==
+        TotalReadoutTime: 0.0481411
+        TxRefAmp: 315.071
+        VoxelSizeDim1: 2.4285714626312256
+        VoxelSizeDim2: 2.4285714626312256
+        VoxelSizeDim3: 2.4000000953674316
+    peer_run-2:
+      scan: /media/ebs/data/HBN/RBC_exemplar/sub-NDARXY162ERA/ses-HBNsiteRU/func/sub-NDARXY162ERA_ses-HBNsiteRU_task-peer_run-2_bold.nii.gz
+      scan_parameters:
+        AcquisitionMatrixPE: 84
+        BandwidthPerPixelPhaseEncode: 20.525
+        BaseResolution: 84
+        ConversionSoftware: !!binary |
+          ZGNtMm5paXg=
+        ConversionSoftwareVersion: !!binary |
+          djEuMC4yMDE3MTIwNCAoT3BlbkpQRUcgYnVpbGQpIEdDQzQuOC40
+        DerivedVendorReportedEchoSpacing: 0.000580013
+        Dim1Size: 84
+        Dim2Size: 84
+        Dim3Size: 60
+        DwellTime: 2.6e-06
+        EchoTime: 0.03
+        EffectiveEchoSpacing: 0.000580013
+        FlipAngle: 31
+        ImageComments: !!binary |
+          VW5hbGlhc2VkX01CNl9QRTNfTEJfKHJlbW90ZSk=
+        ImageOrientationPatientDICOM:
+        - 0.99995
+        - -0.00286713
+        - -0.00961706
+        - -2.54523e-09
+        - 0.958318
+        - -0.285703
+        ImageType:
+        - ORIGINAL
+        - PRIMARY
+        - M
+        - MB
+        - ND
+        - MOSAIC
+        InPlanePhaseEncodingDirectionDICOM: !!binary |
+          Q09M
+        MRAcquisitionType: !!binary |
+          MkQ=
+        MagneticFieldStrength: 3
+        Manufacturer: !!binary |
+          U2llbWVucw==
+        ManufacturersModelName: !!binary |
+          VHJpb1RpbQ==
+        Modality: !!binary |
+          TVI=
+        MultibandAccelerationFactor: 6
+        NumVolumes: 135
+        Obliquity: !!binary |
+          VHJ1ZQ==
+        PartialFourier: 1
+        PatientPosition: !!binary |
+          SEZT
+        PercentPhaseFOV: 100
+        PhaseEncodingDirection: !!binary |
+          ai0=
+        PhaseEncodingSteps: 84
+        PhaseResolution: 1
+        PixelBandwidth: 2289
+        ProcedureStepDescription: !!binary |
+          Q01JX0hCTg==
+        ProtocolName: !!binary |
+          UEVFUjI=
+        PulseSequenceDetails: !!binary |
+          JUN1c3RvbWVyU2VxJV9jbXJyX21iZXAyZF9ib2xk
+        ReceiveCoilName: !!binary |
+          MzJDaF9IZWFk
+        ReconMatrixPE: 84
+        RepetitionTime: 0.8
+        SAR: 0.139054
+        ScanOptions: !!binary |
+          RlM=
+        ScanningSequence: !!binary |
+          RVA=
+        SequenceName: !!binary |
+          ZXBmaWQyZDFfODQ=
+        SequenceVariant: !!binary |
+          U0tfU1M=
+        SeriesDescription: !!binary |
+          UEVFUjI=
+        ShimSetting:
+        - 2090
+        - -636
+        - -7669
+        - 1106
+        - 320
+        - 215
+        - 269
+        - -151
+        SliceThickness: 2.4
+        SliceTiming:
+        - 0
+        - 0.5625
+        - 0.3225
+        - 0.0825
+        - 0.6425
+        - 0.4025
+        - 0.1625
+        - 0.7225
+        - 0.4825
+        - 0.2425
+        - 0
+        - 0.5625
+        - 0.3225
+        - 0.0825
+        - 0.6425
+        - 0.4025
+        - 0.1625
+        - 0.7225
+        - 0.4825
+        - 0.2425
+        - 0
+        - 0.5625
+        - 0.3225
+        - 0.0825
+        - 0.6425
+        - 0.4025
+        - 0.1625
+        - 0.7225
+        - 0.4825
+        - 0.2425
+        - 0
+        - 0.5625
+        - 0.3225
+        - 0.0825
+        - 0.6425
+        - 0.4025
+        - 0.1625
+        - 0.7225
+        - 0.4825
+        - 0.2425
+        - 0
+        - 0.5625
+        - 0.3225
+        - 0.0825
+        - 0.6425
+        - 0.4025
+        - 0.1625
+        - 0.7225
+        - 0.4825
+        - 0.2425
+        - 0
+        - 0.5625
+        - 0.3225
+        - 0.0825
+        - 0.6425
+        - 0.4025
+        - 0.1625
+        - 0.7225
+        - 0.4825
+        - 0.2425
+        SoftwareVersions: !!binary |
+          c3luZ29fTVJfQjE5
+        SpacingBetweenSlices: 2.4
+        TaskName: !!binary |
+          cGVlcg==
+        TotalReadoutTime: 0.0481411
+        TxRefAmp: 315.071
+        VoxelSizeDim1: 2.4285714626312256
+        VoxelSizeDim2: 2.4285714626312256
+        VoxelSizeDim3: 2.4000000953674316
+    peer_run-3_acq-VARIANTPhaseEncodingDirection:
+      scan: /media/ebs/data/HBN/RBC_exemplar/sub-NDARXY162ERA/ses-HBNsiteRU/func/sub-NDARXY162ERA_ses-HBNsiteRU_task-peer_acq-VARIANTPhaseEncodingDirection_run-3_bold.nii.gz
+      scan_parameters:
+        AcquisitionMatrixPE: 84
+        BandwidthPerPixelPhaseEncode: 20.525
+        BaseResolution: 84
+        ConversionSoftware: !!binary |
+          ZGNtMm5paXg=
+        ConversionSoftwareVersion: !!binary |
+          djEuMC4yMDE3MTIwNCAoT3BlbkpQRUcgYnVpbGQpIEdDQzQuOC40
+        DerivedVendorReportedEchoSpacing: 0.000580013
+        Dim1Size: 84
+        Dim2Size: 84
+        Dim3Size: 60
+        DwellTime: 2.6e-06
+        EchoTime: 0.03
+        EffectiveEchoSpacing: 0.000580013
+        FlipAngle: 31
+        ImageComments: !!binary |
+          VW5hbGlhc2VkX01CNl9QRTNfTEJfKHJlbW90ZSk=
+        ImageOrientationPatientDICOM:
+        - -0.0104738
+        - 0.999945
+        - -1.78722e-08
+        - -0.0191953
+        - -0.000201076
+        - -0.999816
+        ImageType:
+        - ORIGINAL
+        - PRIMARY
+        - M
+        - MB
+        - ND
+        - MOSAIC
+        InPlanePhaseEncodingDirectionDICOM: !!binary |
+          Uk9X
+        MRAcquisitionType: !!binary |
+          MkQ=
+        MagneticFieldStrength: 3
+        Manufacturer: !!binary |
+          U2llbWVucw==
+        ManufacturersModelName: !!binary |
+          VHJpb1RpbQ==
+        Modality: !!binary |
+          TVI=
+        MultibandAccelerationFactor: 6
+        NumVolumes: 135
+        Obliquity: !!binary |
+          VHJ1ZQ==
+        PartialFourier: 1
+        PatientPosition: !!binary |
+          SEZT
+        PercentPhaseFOV: 100
+        PhaseEncodingDirection: !!binary |
+          aQ==
+        PhaseEncodingSteps: 84
+        PhaseResolution: 1
+        PixelBandwidth: 2289
+        ProcedureStepDescription: !!binary |
+          Q01JX0hCTg==
+        ProtocolName: !!binary |
+          UEVFUjM=
+        PulseSequenceDetails: !!binary |
+          JUN1c3RvbWVyU2VxJV9jbXJyX21iZXAyZF9ib2xk
+        ReceiveCoilName: !!binary |
+          MzJDaF9IZWFk
+        ReconMatrixPE: 84
+        RepetitionTime: 0.8
+        SAR: 0.139896
+        ScanOptions: !!binary |
+          RlM=
+        ScanningSequence: !!binary |
+          RVA=
+        SequenceName: !!binary |
+          ZXBmaWQyZDFfODQ=
+        SequenceVariant: !!binary |
+          U0tfU1M=
+        SeriesDescription: !!binary |
+          UEVFUjM=
+        ShimSetting:
+        - 2088
+        - -644
+        - -7673
+        - 991
+        - 288
+        - 175
+        - 280
+        - -148
+        SliceThickness: 2.4
+        SliceTiming:
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4025
+        - 0.16
+        - 0.7225
+        - 0.4825
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4025
+        - 0.16
+        - 0.7225
+        - 0.4825
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4025
+        - 0.16
+        - 0.7225
+        - 0.4825
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4025
+        - 0.16
+        - 0.7225
+        - 0.4825
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4025
+        - 0.16
+        - 0.7225
+        - 0.4825
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4025
+        - 0.16
+        - 0.7225
+        - 0.4825
+        - 0.24
+        SoftwareVersions: !!binary |
+          c3luZ29fTVJfQjE5
+        SpacingBetweenSlices: 2.4
+        TaskName: !!binary |
+          cGVlcg==
+        TotalReadoutTime: 0.0481411
+        TxRefAmp: 315.071
+        VoxelSizeDim1: 2.4285714626312256
+        VoxelSizeDim2: 2.4285714626312256
+        VoxelSizeDim3: 2.3999998569488525
+    rest_run-1:
+      scan: /media/ebs/data/HBN/RBC_exemplar/sub-NDARXY162ERA/ses-HBNsiteRU/func/sub-NDARXY162ERA_ses-HBNsiteRU_task-rest_run-1_bold.nii.gz
+      scan_parameters:
+        AcquisitionMatrixPE: 84
+        BandwidthPerPixelPhaseEncode: 20.525
+        BaseResolution: 84
+        ConversionSoftware: !!binary |
+          ZGNtMm5paXg=
+        ConversionSoftwareVersion: !!binary |
+          djEuMC4yMDE3MTIwNCAoT3BlbkpQRUcgYnVpbGQpIEdDQzQuOC40
+        DerivedVendorReportedEchoSpacing: 0.000580013
+        Dim1Size: 84
+        Dim2Size: 84
+        Dim3Size: 60
+        DwellTime: 2.6e-06
+        EchoTime: 0.03
+        EffectiveEchoSpacing: 0.000580013
+        FlipAngle: 31
+        ImageComments: !!binary |
+          VW5hbGlhc2VkX01CNl9QRTNfTEJfKHJlbW90ZSk=
+        ImageOrientationPatientDICOM:
+        - 0.999999
+        - 0.000412402
+        - 0.00164174
+        - -2.42744e-08
+        - 0.969872
+        - -0.243615
+        ImageType:
+        - ORIGINAL
+        - PRIMARY
+        - M
+        - MB
+        - ND
+        - MOSAIC
+        InPlanePhaseEncodingDirectionDICOM: !!binary |
+          Q09M
+        MRAcquisitionType: !!binary |
+          MkQ=
+        MagneticFieldStrength: 3
+        Manufacturer: !!binary |
+          U2llbWVucw==
+        ManufacturersModelName: !!binary |
+          VHJpb1RpbQ==
+        Modality: !!binary |
+          TVI=
+        MultibandAccelerationFactor: 6
+        NumVolumes: 375
+        Obliquity: !!binary |
+          VHJ1ZQ==
+        PartialFourier: 1
+        PatientPosition: !!binary |
+          SEZT
+        PercentPhaseFOV: 100
+        PhaseEncodingDirection: !!binary |
+          ai0=
+        PhaseEncodingSteps: 84
+        PhaseResolution: 1
+        PixelBandwidth: 2289
+        ProcedureStepDescription: !!binary |
+          Q01JX0hCTg==
+        ProtocolName: !!binary |
+          UkVTVDE=
+        PulseSequenceDetails: !!binary |
+          JUN1c3RvbWVyU2VxJV9jbXJyX21iZXAyZF9ib2xk
+        ReceiveCoilName: !!binary |
+          MzJDaF9IZWFk
+        ReconMatrixPE: 84
+        RepetitionTime: 0.8
+        SAR: 0.139608
+        ScanOptions: !!binary |
+          RlM=
+        ScanningSequence: !!binary |
+          RVA=
+        SequenceName: !!binary |
+          ZXBmaWQyZDFfODQ=
+        SequenceVariant: !!binary |
+          U0tfU1M=
+        SeriesDescription: !!binary |
+          UkVTVDE=
+        ShimSetting:
+        - 2090
+        - -635
+        - -7669
+        - 1105
+        - 323
+        - 220
+        - 268
+        - -152
+        SliceThickness: 2.4
+        SliceTiming:
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.5625
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        SoftwareVersions: !!binary |
+          c3luZ29fTVJfQjE5
+        SpacingBetweenSlices: 2.4
+        TaskName: !!binary |
+          cmVzdA==
+        TotalReadoutTime: 0.0481411
+        TxRefAmp: 315.071
+        VoxelSizeDim1: 2.4285712242126465
+        VoxelSizeDim2: 2.4285717010498047
+        VoxelSizeDim3: 2.4000000953674316
+    rest_run-2:
+      scan: /media/ebs/data/HBN/RBC_exemplar/sub-NDARXY162ERA/ses-HBNsiteRU/func/sub-NDARXY162ERA_ses-HBNsiteRU_task-rest_run-2_bold.nii.gz
+      scan_parameters:
+        AcquisitionMatrixPE: 84
+        BandwidthPerPixelPhaseEncode: 20.525
+        BaseResolution: 84
+        ConversionSoftware: !!binary |
+          ZGNtMm5paXg=
+        ConversionSoftwareVersion: !!binary |
+          djEuMC4yMDE3MTIwNCAoT3BlbkpQRUcgYnVpbGQpIEdDQzQuOC40
+        DerivedVendorReportedEchoSpacing: 0.000580013
+        Dim1Size: 84
+        Dim2Size: 84
+        Dim3Size: 60
+        DwellTime: 2.6e-06
+        EchoTime: 0.03
+        EffectiveEchoSpacing: 0.000580013
+        FlipAngle: 31
+        ImageComments: !!binary |
+          VW5hbGlhc2VkX01CNl9QRTNfTEJfKHJlbW90ZSk=
+        ImageOrientationPatientDICOM:
+        - 0.99995
+        - -0.00286713
+        - -0.00961706
+        - -2.54523e-09
+        - 0.958318
+        - -0.285703
+        ImageType:
+        - ORIGINAL
+        - PRIMARY
+        - M
+        - MB
+        - ND
+        - MOSAIC
+        InPlanePhaseEncodingDirectionDICOM: !!binary |
+          Q09M
+        MRAcquisitionType: !!binary |
+          MkQ=
+        MagneticFieldStrength: 3
+        Manufacturer: !!binary |
+          U2llbWVucw==
+        ManufacturersModelName: !!binary |
+          VHJpb1RpbQ==
+        Modality: !!binary |
+          TVI=
+        MultibandAccelerationFactor: 6
+        NumVolumes: 375
+        Obliquity: !!binary |
+          VHJ1ZQ==
+        PartialFourier: 1
+        PatientPosition: !!binary |
+          SEZT
+        PercentPhaseFOV: 100
+        PhaseEncodingDirection: !!binary |
+          ai0=
+        PhaseEncodingSteps: 84
+        PhaseResolution: 1
+        PixelBandwidth: 2289
+        ProcedureStepDescription: !!binary |
+          Q01JX0hCTg==
+        ProtocolName: !!binary |
+          UkVTVDI=
+        PulseSequenceDetails: !!binary |
+          JUN1c3RvbWVyU2VxJV9jbXJyX21iZXAyZF9ib2xk
+        ReceiveCoilName: !!binary |
+          MzJDaF9IZWFk
+        ReconMatrixPE: 84
+        RepetitionTime: 0.8
+        SAR: 0.142464
+        ScanOptions: !!binary |
+          RlM=
+        ScanningSequence: !!binary |
+          RVA=
+        SequenceName: !!binary |
+          ZXBmaWQyZDFfODQ=
+        SequenceVariant: !!binary |
+          U0tfU1M=
+        SeriesDescription: !!binary |
+          UkVTVDI=
+        ShimSetting:
+        - 2090
+        - -636
+        - -7669
+        - 1106
+        - 320
+        - 215
+        - 269
+        - -151
+        SliceThickness: 2.4
+        SliceTiming:
+        - 0
+        - 0.56
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.56
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.56
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.56
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.56
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        - 0
+        - 0.56
+        - 0.32
+        - 0.08
+        - 0.6425
+        - 0.4
+        - 0.16
+        - 0.7225
+        - 0.48
+        - 0.24
+        SoftwareVersions: !!binary |
+          c3luZ29fTVJfQjE5
+        SpacingBetweenSlices: 2.4
+        TaskName: !!binary |
+          cmVzdA==
+        TotalReadoutTime: 0.0481411
+        TxRefAmp: 315.071
+        VoxelSizeDim1: 2.4285714626312256
+        VoxelSizeDim2: 2.4285714626312256
+        VoxelSizeDim3: 2.4000000953674316
+  site_id: site-none
+  subject_id: sub-NDARXY162ERA
+  unique_id: ses-HBNsiteRU

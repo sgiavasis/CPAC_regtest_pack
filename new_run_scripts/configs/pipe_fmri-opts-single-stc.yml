@@ -1,0 +1,21 @@
+%YAML 1.1
+---
+# CPAC Pipeline Configuration YAML file
+# # Version 1.8.3
+# #
+# # http://fcp-indi.github.io for more info.
+# #
+# # Tip: This file can be edited manually with a text editor for quick modifications.
+#
+
+FROM: fmriprep-options
+
+pipeline_setup:
+  system_config:
+    random_seed: 2022
+
+registration_workflows:
+  functional_registration:
+    func_registration_to_template:
+      apply_transform:
+        using: single_step_resampling_from_stc

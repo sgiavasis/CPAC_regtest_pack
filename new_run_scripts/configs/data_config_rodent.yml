@@ -1,0 +1,12 @@
+- anat: /media/ebs/data/rodent/sub-ag150519a/anat/sub-ag150519a_T1w.nii.gz
+  creds_path: null
+  func:
+    rest:
+      scan: /media/ebs/data/rodent/sub-ag150519a/func/sub-ag150519a_task-rest_bold.nii.gz
+      scan_parameters:
+        RepetitionTime: 1.2
+        TaskName: !!binary |
+          UmVzdGluZw==
+  site_id: site-none
+  subject_id: sub-ag150519a
+  unique_id: ses-1

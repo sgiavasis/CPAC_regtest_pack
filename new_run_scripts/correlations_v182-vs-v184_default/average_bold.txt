@@ -1,0 +1,7 @@
+desc-preproc-2_bold: 0.9998476963353735
+desc-mean_bold: 0.9999999999999996
+desc-preproc-1_bold: 0.9988009833626242
+space-template_desc-preproc-2_bold: 0.9397537197729146
+space-T1w_desc-mean_bold: 0.9999999999998289
+space-template_desc-mean_bold: 0.9997052842132418
+space-template_desc-preproc-1_bold: 0.919920784289212

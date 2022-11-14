@@ -1,0 +1,6 @@
+desc-3_regressors.1D: 0.7904821477681203
+desc-6_regressors.1D: 0.9047610381427664
+desc-5_regressors.1D: 1.0
+desc-2_regressors.1D: 1.0
+desc-4_regressors.1D: 1.0
+desc-1_regressors.1D: 1.0

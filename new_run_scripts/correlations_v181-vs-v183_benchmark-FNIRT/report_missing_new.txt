@@ -1,0 +1,1881 @@
+
+These outputs are in v181_benchmark-FNIRT, and are either missing in v183_benchmark-FNIRT or were not picked up by this script's file parsing:
+
+
+desc-cleaned-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-cleaned-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-cleaned-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-cleaned-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-cleaned-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-6_bold.nii.gz
+
+space-symtemplate_desc-sm-7_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-symtemplate_desc-sm-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_space-symtemplate_desc-sm-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-symtemplate_desc-sm-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+desc-cleaned-7_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-cleaned-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-cleaned-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-cleaned-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-cleaned-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-7_bold.nii.gz
+
+atlas-rois2mm_desc-Mean-2_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-Mean-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_atlas-rois2mm_desc-Mean-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-Mean-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-2_timeseries.1D
+
+space-symtemplate_desc-sm-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-symtemplate_desc-sm-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-symtemplate_desc-sm-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_space-symtemplate_desc-sm-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-symtemplate_desc-sm-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-symtemplate_desc-sm-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-symtemplate_desc-sm-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-symtemplate_desc-sm-2_bold.nii.gz
+
+desc-preproc-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-preproc-3_bold.nii.gz
+
+atlas-rois2mm_desc-Voxel-2_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-Voxel-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_atlas-rois2mm_desc-Voxel-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-Voxel-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-2_timeseries.1D
+
+desc-3_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-3_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-3_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-3_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-3_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-3_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-3_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-3_regressors.1D
+
+atlas-rois2mm_desc-SpatReg-3_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-SpatReg-3_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-3_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_atlas-rois2mm_desc-SpatReg-3_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-SpatReg-3_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-3_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-3_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-3_timeseries.txt
+
+desc-preproc-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-preproc-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-preproc-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-preproc-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-preproc-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-preproc-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-preproc-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-preproc-4_bold.nii.gz
+
+motion-params.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_motion-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_motion-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_motion-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_motion-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_motion-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_motion-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_motion-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_motion-params.txt
+
+framewise-displacement-power.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_framewise-displacement-power.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_framewise-displacement-power.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_framewise-displacement-power.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_framewise-displacement-power.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_framewise-displacement-power.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_framewise-displacement-power.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_framewise-displacement-power.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_framewise-displacement-power.1D
+
+desc-4_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-4_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-4_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-4_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-4_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-4_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-4_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-4_vmhc.nii.gz
+
+atlas-rois2mm_desc-ndmg-2_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-ndmg-2_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-2_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_atlas-rois2mm_desc-ndmg-2_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-ndmg-2_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-2_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-2_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-2_correlations.csv
+
+desc-brain_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-brain_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-brain_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-brain_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-brain_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-brain_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-brain_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-brain_bold.nii.gz
+
+desc-cleaned-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-cleaned-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-cleaned-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-cleaned-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-cleaned-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-4_bold.nii.gz
+
+desc-7_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-7_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-7_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-7_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-7_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-7_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-7_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-7_vmhc.nii.gz
+
+desc-2_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-2_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-2_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-2_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-2_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-2_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-2_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-2_vmhc.nii.gz
+
+space-template_desc-preproc-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-template_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_space-template_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-template_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-template_desc-preproc-3_bold.nii.gz
+
+desc-cleaned-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-cleaned-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-cleaned-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-cleaned-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-cleaned-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-2_bold.nii.gz
+
+movement-parameters.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_movement-parameters.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_movement-parameters.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_movement-parameters.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_movement-parameters.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_movement-parameters.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_movement-parameters.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_movement-parameters.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_movement-parameters.1D
+
+framewise-displacement-jenkinson.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_framewise-displacement-jenkinson.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_framewise-displacement-jenkinson.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_framewise-displacement-jenkinson.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_framewise-displacement-jenkinson.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_framewise-displacement-jenkinson.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_framewise-displacement-jenkinson.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_framewise-displacement-jenkinson.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_framewise-displacement-jenkinson.1D
+
+desc-6_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-6_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-6_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-6_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-6_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-6_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-6_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-6_regressors.1D
+
+space-template_res-derivative_desc-bold_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-template_res-derivative_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_res-derivative_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_space-template_res-derivative_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_res-derivative_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-template_res-derivative_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_res-derivative_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-template_res-derivative_desc-bold_mask.nii.gz
+
+desc-3_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-3_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-3_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-3_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-3_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-3_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-3_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-3_vmhc.nii.gz
+
+space-template_desc-preproc-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-template_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_space-template_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-template_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-template_desc-preproc-2_bold.nii.gz
+
+atlas-rois2mm_desc-ndmg-6_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-ndmg-6_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-6_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_atlas-rois2mm_desc-ndmg-6_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-ndmg-6_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-6_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-6_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-6_correlations.csv
+
+dvars.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_dvars.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_dvars.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_dvars.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_dvars.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_dvars.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_dvars.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_dvars.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_dvars.1D
+
+bold-snr-qc.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_bold-snr-qc.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_bold-snr-qc.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_bold-snr-qc.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_bold-snr-qc.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_bold-snr-qc.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_bold-snr-qc.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_bold-snr-qc.txt
+
+space-template_desc-mean_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-template_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_space-template_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-template_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-template_desc-mean_bold.nii.gz
+
+desc-sm4-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-sm4-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-sm4-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-sm4-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-sm4-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-6_bold.nii.gz
+
+desc-cleaned-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-cleaned-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-cleaned-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-cleaned-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-cleaned-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-3_bold.nii.gz
+
+atlas-rois2mm_desc-Voxel-6_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-Voxel-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_atlas-rois2mm_desc-Voxel-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-Voxel-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-6_timeseries.1D
+
+atlas-rois2mm_desc-ndmg-3_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-ndmg-3_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-3_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_atlas-rois2mm_desc-ndmg-3_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-ndmg-3_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-3_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-3_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-3_correlations.csv
+
+atlas-rois2mm_desc-Mean-3_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-Mean-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_atlas-rois2mm_desc-Mean-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-Mean-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-3_timeseries.1D
+
+atlas-rois2mm_desc-SpatReg-6_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-SpatReg-6_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-6_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_atlas-rois2mm_desc-SpatReg-6_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-SpatReg-6_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-6_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-6_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-6_timeseries.txt
+
+desc-cleaned-5_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-cleaned-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-cleaned-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-cleaned-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-cleaned-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-5_bold.nii.gz
+
+space-T1w_desc-mean_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-T1w_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-T1w_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_space-T1w_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-T1w_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-T1w_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-T1w_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-T1w_desc-mean_bold.nii.gz
+
+power-params.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_power-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_power-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_power-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_power-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_power-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_power-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_power-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_power-params.txt
+
+desc-5_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-5_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-5_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-5_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-5_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-5_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-5_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-5_regressors.1D
+
+space-template_desc-bold_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-template_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_space-template_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-template_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-template_desc-bold_mask.nii.gz
+
+max-displacement.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_max-displacement.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_max-displacement.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_max-displacement.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_max-displacement.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_max-displacement.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_max-displacement.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_max-displacement.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_max-displacement.1D
+
+desc-motion_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-motion_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-motion_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-motion_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-motion_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-motion_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-motion_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-motion_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-motion_bold.nii.gz
+
+desc-sm4-5_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-sm4-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-sm4-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-sm4-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-sm4-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-5_bold.nii.gz
+
+desc-sm4-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-sm4-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-sm4-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-sm4-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-sm4-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-3_bold.nii.gz
+
+space-symtemplate_desc-sm-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-symtemplate_desc-sm-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-symtemplate_desc-sm-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_space-symtemplate_desc-sm-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-symtemplate_desc-sm-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-symtemplate_desc-sm-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-symtemplate_desc-sm-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-symtemplate_desc-sm-3_bold.nii.gz
+
+desc-mean_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+
+space-symtemplate_desc-sm-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-symtemplate_desc-sm-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-symtemplate_desc-sm-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_space-symtemplate_desc-sm-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-symtemplate_desc-sm-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-symtemplate_desc-sm-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-symtemplate_desc-sm-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-symtemplate_desc-sm-4_bold.nii.gz
+
+desc-preproc-5_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-preproc-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-preproc-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-preproc-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-preproc-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-preproc-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-preproc-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-preproc-5_bold.nii.gz
+
+atlas-rois2mm_desc-Voxel-3_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-Voxel-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_atlas-rois2mm_desc-Voxel-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-Voxel-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-3_timeseries.1D
+
+desc-2_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-2_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-2_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-2_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-2_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-2_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-2_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-2_regressors.1D
+
+desc-sm4-7_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-sm4-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-sm4-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-sm4-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-sm4-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-7_bold.nii.gz
+
+space-template_desc-preproc-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-template_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_space-template_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-template_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+desc-preproc-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-preproc-6_bold.nii.gz
+
+atlas-rois2mm_desc-SpatReg-2_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-SpatReg-2_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-2_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_atlas-rois2mm_desc-SpatReg-2_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-SpatReg-2_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-2_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-2_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-2_timeseries.txt
+
+space-bold_desc-brain_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-bold_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-bold_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_space-bold_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-bold_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-bold_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-bold_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-bold_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-bold_desc-brain_mask.nii.gz
+
+atlas-rois2mm_desc-Mean-6_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-Mean-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_atlas-rois2mm_desc-Mean-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-Mean-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+desc-sm4-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-sm4-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-sm4-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-sm4-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-sm4-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-2_bold.nii.gz
+
+desc-4_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-4_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-4_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-4_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-4_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-4_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-4_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-4_regressors.1D
+
+desc-preproc-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-preproc-2_bold.nii.gz
+
+desc-sm4-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-sm4-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-sm4-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-sm4-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-sm4-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-4_bold.nii.gz
+
+label-WM_probseg:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-WM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_label-WM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_label-WM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-WM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_label-WM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_label-WM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_label-WM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_label-WM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_label-WM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_label-WM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_label-WM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_label-WM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_label-WM_probseg.nii.gz
+
+desc-brain_T1w:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_desc-brain_T1w.nii.gz
+
+label-GM_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-GM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_label-GM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_label-GM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-GM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_label-GM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_label-GM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_label-GM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_label-GM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_label-GM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_label-GM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_label-GM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_label-GM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_label-GM_mask.nii.gz
+
+desc-preproc_T1w:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_desc-preproc_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_desc-preproc_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_desc-preproc_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_desc-preproc_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_desc-preproc_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_desc-preproc_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_desc-preproc_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_desc-preproc_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_desc-preproc_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_desc-preproc_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_desc-preproc_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_desc-preproc_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_desc-preproc_T1w.nii.gz
+
+space-T1w_desc-brain_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_space-T1w_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_space-T1w_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_space-T1w_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_space-T1w_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_space-T1w_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_space-T1w_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_space-T1w_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_space-T1w_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_space-T1w_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_space-T1w_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_space-T1w_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_space-T1w_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_space-T1w_desc-brain_mask.nii.gz
+
+space-symtemplate_desc-brain_T1w:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_space-symtemplate_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_space-symtemplate_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_space-symtemplate_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_space-symtemplate_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_space-symtemplate_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_space-symtemplate_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_space-symtemplate_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_space-symtemplate_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_space-symtemplate_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_space-symtemplate_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_space-symtemplate_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_space-symtemplate_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_space-symtemplate_desc-brain_T1w.nii.gz
+
+label-WM_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-WM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_label-WM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_label-WM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-WM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_label-WM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_label-WM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_label-WM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_label-WM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_label-WM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_label-WM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_label-WM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_label-WM_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_label-WM_mask.nii.gz
+
+label-CSF_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-CSF_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_label-CSF_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_label-CSF_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-CSF_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_label-CSF_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_label-CSF_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_label-CSF_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_label-CSF_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_label-CSF_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_label-CSF_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_label-CSF_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_label-CSF_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_label-CSF_mask.nii.gz
+
+space-template_desc-brain_T1w:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_space-template_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_space-template_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_space-template_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_space-template_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_space-template_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_space-template_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_space-template_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_space-template_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_space-template_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_space-template_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_space-template_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_space-template_desc-brain_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_space-template_desc-brain_T1w.nii.gz
+
+label-CSF_desc-preproc_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-CSF_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_label-CSF_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_label-CSF_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-CSF_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_label-CSF_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_label-CSF_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_label-CSF_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_label-CSF_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_label-CSF_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_label-CSF_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_label-CSF_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_label-CSF_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_label-CSF_desc-preproc_mask.nii.gz
+
+label-WM_desc-preproc_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-WM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_label-WM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_label-WM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-WM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_label-WM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_label-WM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_label-WM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_label-WM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_label-WM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_label-WM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_label-WM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_label-WM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_label-WM_desc-preproc_mask.nii.gz
+
+label-GM_probseg:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-GM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_label-GM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_label-GM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-GM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_label-GM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_label-GM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_label-GM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_label-GM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_label-GM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_label-GM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_label-GM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_label-GM_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_label-GM_probseg.nii.gz
+
+label-CSF_probseg:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-CSF_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_label-CSF_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_label-CSF_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-CSF_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_label-CSF_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_label-CSF_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_label-CSF_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_label-CSF_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_label-CSF_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_label-CSF_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_label-CSF_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_label-CSF_probseg.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_label-CSF_probseg.nii.gz
+
+label-GM_desc-preproc_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-GM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_label-GM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_label-GM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-GM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_label-GM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_label-GM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_label-GM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_label-GM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_label-GM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_label-GM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_label-GM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_label-GM_desc-preproc_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_label-GM_desc-preproc_mask.nii.gz
+
+desc-reorient_T1w:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_desc-reorient_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/anat/sub-3154996_1_desc-reorient_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/anat/sub-0025453_ses-1_desc-reorient_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_desc-reorient_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/anat/sub-NDARCA186WGH_1_desc-reorient_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/anat/sub-1019436_1_desc-reorient_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/anat/sub-0025428_ses-1_desc-reorient_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/anat/sub-3884955_1_desc-reorient_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/anat/sub-0025452_ses-1_desc-reorient_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/anat/sub-3699991_1_desc-reorient_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/anat/sub-0025429_ses-1_desc-reorient_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/anat/sub-0025448_ses-1_desc-reorient_T1w.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/anat/sub-2014113_1_desc-reorient_T1w.nii.gz
+
+run-atlas-rois2mm_desc-Voxel-4_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-4_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-4_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-4_timeseries.1D
+
+run-space-symtemplate_desc-sm-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-4_bold.nii.gz
+
+run-desc-brain_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-brain_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-brain_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-brain_bold.nii.gz
+
+run-desc-motion_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-motion_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-motion_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-motion_bold.nii.gz
+
+run-desc-preproc-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-preproc-3_bold.nii.gz
+
+run-desc-3_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-3_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-3_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-3_vmhc.nii.gz
+
+run-atlas-rois2mm_desc-SpatReg-2_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-2_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-2_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-2_timeseries.txt
+
+run-space-T1w_desc-mean_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-T1w_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-T1w_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-T1w_desc-mean_bold.nii.gz
+
+run-desc-cleaned-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-cleaned-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-2_bold.nii.gz
+
+run-desc-sm4-bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-1_bold.nii.gz
+
+run-atlas-rois2mm_desc-ndmg-3_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-3_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-3_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-3_correlations.csv
+
+run-atlas-rois2mm_desc-ndmg-4_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-4_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-4_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-4_correlations.csv
+
+run-atlas-rois2mm_desc-Voxel-5_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-5_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-5_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-5_timeseries.1D
+
+run-atlas-rois2mm_desc-Voxel-3_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-3_timeseries.1D
+
+run-atlas-rois2mm_desc-Mean-4_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+run-space-template_desc-preproc-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-2_bold.nii.gz
+
+run-max-displacement.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_max-displacement.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_max-displacement.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_max-displacement.1D
+
+run-bold-snr-qc.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_bold-snr-qc.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_bold-snr-qc.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_bold-snr-qc.txt
+
+run-atlas-rois2mm_desc-Voxel-2_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-2_timeseries.1D
+
+run-desc-6_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-6_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-6_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-6_regressors.1D
+
+run-space-bold_desc-brain_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-bold_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-bold_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-bold_desc-brain_mask.nii.gz
+
+run-framewise-displacement-jenkinson.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_framewise-displacement-jenkinson.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_framewise-displacement-jenkinson.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_framewise-displacement-jenkinson.1D
+
+run-desc-mean_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-mean_bold.nii.gz
+
+run-atlas-rois2mm_desc-Mean-timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-1_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-1_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-1_timeseries.1D
+
+run-atlas-rois2mm_desc-SpatReg-5_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-5_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-5_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-5_timeseries.txt
+
+run-desc-vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-1_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-1_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-1_vmhc.nii.gz
+
+run-desc-preproc-bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-preproc-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-preproc-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-preproc-1_bold.nii.gz
+
+run-desc-5_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-5_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-5_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-5_regressors.1D
+
+run-atlas-rois2mm_desc-SpatReg-timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-1_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-1_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-1_timeseries.txt
+
+run-desc-sm4-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-6_bold.nii.gz
+
+run-desc-2_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-2_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-2_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-2_vmhc.nii.gz
+
+run-space-symtemplate_desc-sm-5_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+run-space-template_desc-preproc-bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-preproc-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-preproc-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-1_bold.nii.gz
+
+run-desc-preproc-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-preproc-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-preproc-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-preproc-4_bold.nii.gz
+
+run-space-symtemplate_desc-sm-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-3_bold.nii.gz
+
+run-desc-sm4-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-2_bold.nii.gz
+
+run-atlas-rois2mm_desc-Voxel-timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-1_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-1_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-1_timeseries.1D
+
+run-desc-sm4-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-4_bold.nii.gz
+
+run-atlas-rois2mm_desc-ndmg-6_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-6_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-6_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-6_correlations.csv
+
+run-desc-cleaned-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-cleaned-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-3_bold.nii.gz
+
+run-desc-regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-1_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-1_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-1_regressors.1D
+
+run-desc-preproc-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-preproc-6_bold.nii.gz
+
+run-space-template_desc-preproc-5_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-preproc-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-preproc-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+run-space-symtemplate_desc-sm-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-2_bold.nii.gz
+
+run-atlas-rois2mm_desc-Mean-3_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-3_timeseries.1D
+
+run-movement-parameters.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_movement-parameters.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_movement-parameters.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_movement-parameters.1D
+
+run-desc-4_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-4_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-4_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-4_vmhc.nii.gz
+
+run-desc-3_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-3_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-3_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-3_regressors.1D
+
+run-atlas-rois2mm_desc-ndmg-correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-1_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-1_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-1_correlations.csv
+
+run-desc-cleaned-bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-cleaned-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-1_bold.nii.gz
+
+run-desc-cleaned-5_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-cleaned-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-5_bold.nii.gz
+
+run-space-template_desc-preproc-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-3_bold.nii.gz
+
+run-atlas-rois2mm_desc-Voxel-6_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Voxel-6_timeseries.1D
+
+run-space-template_res-derivative_desc-bold_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_res-derivative_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_res-derivative_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_res-derivative_desc-bold_mask.nii.gz
+
+run-desc-4_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-4_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-4_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-4_regressors.1D
+
+run-atlas-rois2mm_desc-ndmg-2_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-2_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-2_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-2_correlations.csv
+
+run-framewise-displacement-power.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_framewise-displacement-power.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_framewise-displacement-power.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_framewise-displacement-power.1D
+
+run-space-symtemplate_desc-sm-7_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+run-space-symtemplate_desc-sm-bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+run-dvars.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_dvars.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_dvars.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_dvars.1D
+
+run-space-template_desc-preproc-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-preproc-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-preproc-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+run-desc-sm4-5_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-5_bold.nii.gz
+
+run-atlas-rois2mm_desc-Mean-5_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+run-desc-sm4-7_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-7_bold.nii.gz
+
+run-desc-cleaned-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-cleaned-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-4_bold.nii.gz
+
+run-atlas-rois2mm_desc-SpatReg-4_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-4_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-4_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-4_timeseries.txt
+
+run-space-template_desc-mean_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-mean_bold.nii.gz
+
+run-power-params.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_power-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_power-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_power-params.txt
+
+run-space-template_desc-bold_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-bold_mask.nii.gz
+
+run-desc-cleaned-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-cleaned-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-6_bold.nii.gz
+
+run-space-template_desc-preproc-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+run-desc-5_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-5_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-5_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-5_vmhc.nii.gz
+
+run-desc-cleaned-7_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-cleaned-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-7_bold.nii.gz
+
+run-atlas-rois2mm_desc-SpatReg-6_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-6_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-6_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-6_timeseries.txt
+
+run-desc-6_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-6_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-6_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-6_vmhc.nii.gz
+
+run-desc-sm4-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-3_bold.nii.gz
+
+run-desc-2_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-2_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-2_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-2_regressors.1D
+
+run-desc-preproc-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-preproc-2_bold.nii.gz
+
+run-desc-preproc-5_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-preproc-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-preproc-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-preproc-5_bold.nii.gz
+
+run-motion-params.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_motion-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_motion-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_motion-params.txt
+
+run-atlas-rois2mm_desc-Mean-2_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-2_timeseries.1D
+
+run-space-symtemplate_desc-sm-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+run-atlas-rois2mm_desc-ndmg-5_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-5_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-5_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-ndmg-5_correlations.csv
+
+run-atlas-rois2mm_desc-Mean-6_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+run-desc-7_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-7_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-7_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-7_vmhc.nii.gz
+
+run-atlas-rois2mm_desc-SpatReg-3_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-3_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-3_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-SpatReg-3_timeseries.txt
+
+space-symtemplate_desc-sm-1_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+desc-1_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-1_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-1_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-1_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-1_regressors.1D
+
+desc-preproc-1_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-preproc-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-preproc-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-preproc-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-preproc-1_bold.nii.gz
+
+atlas-rois2mm_desc-Voxel-1_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-1_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-1_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-1_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-Voxel-1_timeseries.1D
+
+atlas-rois2mm_desc-ndmg-1_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-1_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-1_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-1_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-ndmg-1_correlations.csv
+
+desc-1_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-1_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-1_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-1_vmhc.nii.gz
+
+atlas-rois2mm_desc-SpatReg-1_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-1_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-1_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-1_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-SpatReg-1_timeseries.txt
+
+desc-cleaned-1_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+
+atlas-rois2mm_desc-Mean-1_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-1_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-1_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-1_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-1_timeseries.1D
+
+desc-sm4-1_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+
+space-template_desc-preproc-1_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-template_desc-preproc-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-preproc-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-template_desc-preproc-1_bold.nii.gz
+
+acq-run-atlas-rois2mm_desc-Mean-2_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-2_timeseries.1D
+
+acq-run-atlas-rois2mm_desc-SpatReg-6_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-SpatReg-6_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-SpatReg-6_timeseries.txt
+
+acq-run-space-template_desc-preproc-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+acq-run-desc-preproc-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-preproc-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-preproc-6_bold.nii.gz
+
+acq-run-space-template_desc-preproc-bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-preproc-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-preproc-1_bold.nii.gz
+
+acq-run-desc-sm4-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-2_bold.nii.gz
+
+acq-run-atlas-rois2mm_desc-SpatReg-3_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-SpatReg-3_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-SpatReg-3_timeseries.txt
+
+acq-run-desc-regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-1_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-1_regressors.1D
+
+acq-run-desc-brain_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-brain_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-brain_bold.nii.gz
+
+acq-run-atlas-rois2mm_desc-SpatReg-timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-SpatReg-1_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-SpatReg-1_timeseries.txt
+
+acq-run-space-symtemplate_desc-sm-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+acq-run-space-template_desc-preproc-5_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-preproc-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+acq-run-atlas-rois2mm_desc-Mean-3_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-3_timeseries.1D
+
+acq-run-desc-motion_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-motion_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-motion_bold.nii.gz
+
+acq-run-max-displacement.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_max-displacement.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_max-displacement.1D
+
+acq-run-desc-cleaned-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-4_bold.nii.gz
+
+acq-run-desc-7_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-7_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-7_vmhc.nii.gz
+
+acq-run-dvars.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_dvars.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_dvars.1D
+
+acq-run-desc-preproc-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-preproc-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-preproc-4_bold.nii.gz
+
+acq-run-desc-sm4-5_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-5_bold.nii.gz
+
+acq-run-desc-3_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-3_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-3_vmhc.nii.gz
+
+acq-run-framewise-displacement-power.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_framewise-displacement-power.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_framewise-displacement-power.1D
+
+acq-run-desc-sm4-bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-1_bold.nii.gz
+
+acq-run-desc-cleaned-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-2_bold.nii.gz
+
+acq-run-desc-6_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-6_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-6_vmhc.nii.gz
+
+acq-run-desc-preproc-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-preproc-2_bold.nii.gz
+
+acq-run-atlas-rois2mm_desc-Voxel-5_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Voxel-5_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Voxel-5_timeseries.1D
+
+acq-run-space-T1w_desc-mean_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-T1w_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-T1w_desc-mean_bold.nii.gz
+
+acq-run-atlas-rois2mm_desc-Voxel-timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Voxel-1_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Voxel-1_timeseries.1D
+
+acq-run-atlas-rois2mm_desc-ndmg-5_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-ndmg-5_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-ndmg-5_correlations.csv
+
+acq-run-atlas-rois2mm_desc-Voxel-3_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Voxel-3_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Voxel-3_timeseries.1D
+
+acq-run-desc-cleaned-bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-1_bold.nii.gz
+
+acq-run-space-symtemplate_desc-sm-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-3_bold.nii.gz
+
+acq-run-atlas-rois2mm_desc-ndmg-2_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-ndmg-2_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-ndmg-2_correlations.csv
+
+acq-run-desc-6_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-6_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-6_regressors.1D
+
+acq-run-space-template_desc-preproc-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-preproc-3_bold.nii.gz
+
+acq-run-atlas-rois2mm_desc-SpatReg-5_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-SpatReg-5_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-SpatReg-5_timeseries.txt
+
+acq-run-desc-preproc-bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-preproc-1_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-preproc-1_bold.nii.gz
+
+acq-run-desc-5_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-5_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-5_vmhc.nii.gz
+
+acq-run-atlas-rois2mm_desc-Voxel-4_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Voxel-4_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Voxel-4_timeseries.1D
+
+acq-run-desc-4_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-4_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-4_regressors.1D
+
+acq-run-desc-2_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-2_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-2_regressors.1D
+
+acq-run-atlas-rois2mm_desc-ndmg-3_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-ndmg-3_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-ndmg-3_correlations.csv
+
+acq-run-atlas-rois2mm_desc-SpatReg-2_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-SpatReg-2_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-SpatReg-2_timeseries.txt
+
+acq-run-space-template_res-derivative_desc-bold_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_res-derivative_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_res-derivative_desc-bold_mask.nii.gz
+
+acq-run-atlas-rois2mm_desc-Mean-6_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+acq-run-space-symtemplate_desc-sm-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-4_bold.nii.gz
+
+acq-run-desc-2_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-2_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-2_vmhc.nii.gz
+
+acq-run-desc-preproc-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-preproc-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-preproc-3_bold.nii.gz
+
+acq-run-desc-5_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-5_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-5_regressors.1D
+
+acq-run-desc-cleaned-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-6_bold.nii.gz
+
+acq-run-space-symtemplate_desc-sm-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-2_bold.nii.gz
+
+acq-run-desc-cleaned-7_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-7_bold.nii.gz
+
+acq-run-movement-parameters.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_movement-parameters.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_movement-parameters.1D
+
+acq-run-atlas-rois2mm_desc-ndmg-6_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-ndmg-6_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-ndmg-6_correlations.csv
+
+acq-run-motion-params.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_motion-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_motion-params.txt
+
+acq-run-desc-sm4-6_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-6_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-6_bold.nii.gz
+
+acq-run-space-bold_desc-brain_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-bold_desc-brain_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-bold_desc-brain_mask.nii.gz
+
+acq-run-desc-sm4-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-4_bold.nii.gz
+
+acq-run-space-template_desc-preproc-4_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-preproc-4_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+acq-run-atlas-rois2mm_desc-SpatReg-4_timeseries.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-SpatReg-4_timeseries.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-SpatReg-4_timeseries.txt
+
+acq-run-atlas-rois2mm_desc-Mean-timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-1_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-1_timeseries.1D
+
+acq-run-desc-preproc-5_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-preproc-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-preproc-5_bold.nii.gz
+
+acq-run-desc-sm4-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-3_bold.nii.gz
+
+acq-run-desc-cleaned-5_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-5_bold.nii.gz
+
+acq-run-atlas-rois2mm_desc-Mean-4_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+acq-run-desc-mean_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-mean_bold.nii.gz
+
+acq-run-power-params.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_power-params.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_power-params.txt
+
+acq-run-space-symtemplate_desc-sm-7_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+acq-run-desc-cleaned-3_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-3_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-3_bold.nii.gz
+
+acq-run-atlas-rois2mm_desc-ndmg-4_correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-ndmg-4_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-ndmg-4_correlations.csv
+
+acq-run-space-template_desc-bold_mask:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-bold_mask.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-bold_mask.nii.gz
+
+acq-run-desc-sm4-7_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-7_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-7_bold.nii.gz
+
+acq-run-bold-snr-qc.txt:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_bold-snr-qc.txt
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_bold-snr-qc.txt
+
+acq-run-atlas-rois2mm_desc-Voxel-6_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Voxel-6_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Voxel-6_timeseries.1D
+
+acq-run-desc-3_regressors.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-3_regressors.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-3_regressors.1D
+
+acq-run-space-template_desc-preproc-2_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-preproc-2_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-preproc-2_bold.nii.gz
+
+acq-run-framewise-displacement-jenkinson.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_framewise-displacement-jenkinson.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_framewise-displacement-jenkinson.1D
+
+acq-run-desc-4_vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-4_vmhc.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-4_vmhc.nii.gz
+
+acq-run-space-symtemplate_desc-sm-5_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+acq-run-atlas-rois2mm_desc-ndmg-correlations.csv:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-ndmg-1_correlations.csv
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-ndmg-1_correlations.csv
+
+acq-run-atlas-rois2mm_desc-Mean-5_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+acq-run-atlas-rois2mm_desc-Voxel-2_timeseries.1D:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Voxel-2_timeseries.1D
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Voxel-2_timeseries.1D
+
+acq-run-space-template_desc-mean_bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-mean_bold.nii.gz
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-mean_bold.nii.gz
+
+acq-run-space-symtemplate_desc-sm-bold:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+acq-run-desc-vmhc:
+
+    /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-1_vmhc.nii.gz

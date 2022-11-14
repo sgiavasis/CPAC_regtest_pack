@@ -1,0 +1,1 @@
+atlas-Schaefer1000space-MNI152NLin6res-1x1xdesc-Mean-timeseries.1D: 0.9980856146484721

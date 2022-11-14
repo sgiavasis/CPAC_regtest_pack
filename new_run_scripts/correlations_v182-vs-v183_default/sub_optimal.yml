@@ -1,0 +1,258 @@
+atlas-Talairachspace-MNI152NLin6res-1x1x1_desc-Mean-1_timeseries.1D:
+- 'nan:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-Talairachspace-MNI152NLin6res-1x1x1_desc-Mean-1_timeseries.1D
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-Talairachspace-MNI152NLin6res-1x1x1_desc-Mean-1_timeseries.1D
+
+
+  '
+atlas-Talairachspace-MNI152NLin6res-1x1x1_desc-Mean-2_timeseries.1D:
+- 'nan:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-Talairachspace-MNI152NLin6res-1x1x1_desc-Mean-2_timeseries.1D
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_atlas-Talairachspace-MNI152NLin6res-1x1x1_desc-Mean-2_timeseries.1D
+
+
+  '
+desc-1_vmhc:
+- '0.975728093838105:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-1_vmhc.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-1_vmhc.nii.gz
+
+
+  '
+desc-2_vmhc:
+- '0.9765427298634044:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-2_vmhc.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-2_vmhc.nii.gz
+
+
+  '
+label-CSF_desc-preproc_mask:
+- '0.9758749444421189:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/anat/sub-0025453_ses-1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/anat/sub-0025453_ses-1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9641676736008207:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/1019436_1/anat/sub-1019436_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/1019436_1/anat/sub-1019436_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.937115352700663:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/anat/sub-2014113_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/anat/sub-2014113_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+label-GM_desc-preproc_mask:
+- '0.9597286268986742:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/anat/sub-2014113_1_label-GM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/anat/sub-2014113_1_label-GM_desc-preproc_mask.nii.gz
+
+
+  '
+label-WM_desc-preproc_mask:
+- '0.9719462374031376:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/anat/sub-0025453_ses-1_label-WM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/anat/sub-0025453_ses-1_label-WM_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.932232168913116:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/anat/sub-2014113_1_label-WM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/anat/sub-2014113_1_label-WM_desc-preproc_mask.nii.gz
+
+
+  '
+run-atlas-Slab907space-MNI152NLin6res-1x1xdesc-Mean-2_timeseries.1D:
+- '0.9736510941936654:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-Slab907space-MNI152NLin6res-1x1x1_desc-Mean-2_timeseries.1D
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-Slab907space-MNI152NLin6res-1x1x1_desc-Mean-2_timeseries.1D
+
+
+  '
+run-atlas-Slab907space-MNI152NLin6res-1x1xdesc-Mean-timeseries.1D:
+- '0.9729847319230611:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-Slab907space-MNI152NLin6res-1x1x1_desc-Mean-1_timeseries.1D
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-Slab907space-MNI152NLin6res-1x1x1_desc-Mean-1_timeseries.1D
+
+
+  '
+run-atlas-Talairachspace-MNI152NLin6res-1x1xdesc-Mean-2_timeseries.1D:
+- 'nan:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-Talairachspace-MNI152NLin6res-1x1x1_desc-Mean-2_timeseries.1D
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-Talairachspace-MNI152NLin6res-1x1x1_desc-Mean-2_timeseries.1D
+
+
+  '
+run-atlas-Talairachspace-MNI152NLin6res-1x1xdesc-Mean-timeseries.1D:
+- 'nan:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-Talairachspace-MNI152NLin6res-1x1x1_desc-Mean-1_timeseries.1D
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-Talairachspace-MNI152NLin6res-1x1x1_desc-Mean-1_timeseries.1D
+
+
+  '
+run-desc-2_vmhc:
+- '0.92447631747339:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-2_vmhc.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-2_vmhc.nii.gz
+
+
+  '
+run-desc-vmhc:
+- '0.924475678922433:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-1_vmhc.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-1_vmhc.nii.gz
+
+
+  '
+run-space-template_desc-binarized-zstd-2_degree-centrality:
+- '0.9584866858823105:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-binarized-zstd-2_degree-centrality.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-binarized-zstd-2_degree-centrality.nii.gz
+
+
+  '
+run-space-template_desc-binarized-zstd-2_lfcd:
+- '0.8697550728596218:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-binarized-zstd-2_lfcd.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-binarized-zstd-2_lfcd.nii.gz
+
+
+  '
+run-space-template_desc-binarized-zstd-degree-centrality:
+- '0.9616239168250644:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-binarized-zstd-1_degree-centrality.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-binarized-zstd-1_degree-centrality.nii.gz
+
+
+  '
+run-space-template_desc-binarized-zstd-lfcd:
+- '0.8619727154466968:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-binarized-zstd-1_lfcd.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-binarized-zstd-1_lfcd.nii.gz
+
+
+  '
+run-space-template_desc-preproc-2_bold:
+- '0.7896841745546889:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-2_bold.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-2_bold.nii.gz
+
+
+  '
+run-space-template_desc-preproc-bold:
+- '0.7892745406545577:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-1_bold.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-1_bold.nii.gz
+
+
+  '
+run-space-template_desc-weighted-zstd-2_degree-centrality:
+- '0.9600011954198425:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-weighted-zstd-2_degree-centrality.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-weighted-zstd-2_degree-centrality.nii.gz
+
+
+  '
+run-space-template_desc-weighted-zstd-2_lfcd:
+- '0.8849572657436686:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-weighted-zstd-2_lfcd.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-weighted-zstd-2_lfcd.nii.gz
+
+
+  '
+run-space-template_desc-weighted-zstd-degree-centrality:
+- '0.9632932071659682:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-weighted-zstd-1_degree-centrality.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-weighted-zstd-1_degree-centrality.nii.gz
+
+
+  '
+run-space-template_desc-weighted-zstd-lfcd:
+- '0.8780604623947447:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-weighted-zstd-1_lfcd.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-weighted-zstd-1_lfcd.nii.gz
+
+
+  '
+space-template_desc-brain_T1w:
+- '0.9695786861298226:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/2014113_1/anat/sub-2014113_1_space-template_desc-brain_T1w.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/2014113_1/anat/sub-2014113_1_space-template_desc-brain_T1w.nii.gz
+
+
+  '
+space-template_desc-preproc-1_bold:
+- '0.9220468696250862:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-1_bold.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-1_bold.nii.gz
+
+
+  '
+space-template_desc-preproc-2_bold:
+- '0.9220328720677122:
+
+  /media/ebs/runs/v182_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-2_bold.nii.gz
+
+  /media/ebs/runs/v183_default/output/cpac_cpac-default-pipeline/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-2_bold.nii.gz
+
+
+  '

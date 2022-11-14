@@ -1,0 +1,81 @@
+desc-brain_T1w:
+- '0.888285928836526:
+
+  /media/ebs/runs/v182-NHP_nhp/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/anat/sub-032167_ses-001_desc-brain_T1w.nii.gz
+
+  /media/ebs/runs/v184_NHP/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/anat/sub-032167_ses-001_desc-brain_T1w.nii.gz
+
+
+  '
+desc-preproc_T1w:
+- '0.8724004468134153:
+
+  /media/ebs/runs/v182-NHP_nhp/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/anat/sub-032167_ses-001_desc-preproc_T1w.nii.gz
+
+  /media/ebs/runs/v184_NHP/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/anat/sub-032167_ses-001_desc-preproc_T1w.nii.gz
+
+
+  '
+space-T1w_desc-brain_mask:
+- '0.9543969263488612:
+
+  /media/ebs/runs/v182-NHP_nhp/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/anat/sub-032167_ses-001_space-T1w_desc-brain_mask.nii.gz
+
+  /media/ebs/runs/v184_NHP/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/anat/sub-032167_ses-001_space-T1w_desc-brain_mask.nii.gz
+
+
+  '
+space-T1w_desc-mean_bold:
+- '0.9339980525306041:
+
+  /media/ebs/runs/v182-NHP_nhp/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/func/sub-032167_ses-001_task-resting_run-1_space-T1w_desc-mean_bold.nii.gz
+
+  /media/ebs/runs/v184_NHP/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/func/sub-032167_ses-001_task-resting_run-1_space-T1w_desc-mean_bold.nii.gz
+
+
+  '
+space-bold_desc-brain_mask:
+- '0.977344617063141:
+
+  /media/ebs/runs/v182-NHP_nhp/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/func/sub-032167_ses-001_task-resting_run-1_space-bold_desc-brain_mask.nii.gz
+
+  /media/ebs/runs/v184_NHP/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/func/sub-032167_ses-001_task-resting_run-1_space-bold_desc-brain_mask.nii.gz
+
+
+  '
+space-template_desc-bold_mask:
+- '0.8544219168353254:
+
+  /media/ebs/runs/v182-NHP_nhp/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/func/sub-032167_ses-001_task-resting_run-1_space-template_desc-bold_mask.nii.gz
+
+  /media/ebs/runs/v184_NHP/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/func/sub-032167_ses-001_task-resting_run-1_space-template_desc-bold_mask.nii.gz
+
+
+  '
+space-template_desc-brain_T1w:
+- '0.7549386566272969:
+
+  /media/ebs/runs/v182-NHP_nhp/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/anat/sub-032167_ses-001_space-template_desc-brain_T1w.nii.gz
+
+  /media/ebs/runs/v184_NHP/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/anat/sub-032167_ses-001_space-template_desc-brain_T1w.nii.gz
+
+
+  '
+space-template_desc-mean_bold:
+- '0.794498803071267:
+
+  /media/ebs/runs/v182-NHP_nhp/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/func/sub-032167_ses-001_task-resting_run-1_space-template_desc-mean_bold.nii.gz
+
+  /media/ebs/runs/v184_NHP/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/func/sub-032167_ses-001_task-resting_run-1_space-template_desc-mean_bold.nii.gz
+
+
+  '
+space-template_res-derivative_desc-bold_mask:
+- '0.8544219168353254:
+
+  /media/ebs/runs/v182-NHP_nhp/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/func/sub-032167_ses-001_task-resting_run-1_space-template_res-derivative_desc-bold_mask.nii.gz
+
+  /media/ebs/runs/v184_NHP/output/cpac_cpac_default_monkey_skullstrip/sub-032167_ses-001/func/sub-032167_ses-001_task-resting_run-1_space-template_res-derivative_desc-bold_mask.nii.gz
+
+
+  '

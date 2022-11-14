@@ -1,0 +1,570 @@
+acq-run-space-template_desc-brain_bold:
+- '0.8284748276525219:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-brain_bold.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-brain_bold.nii.gz
+
+
+  '
+- '0.7110006698268041:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-brain_bold.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-brain_bold.nii.gz
+
+
+  '
+desc-brain_T1w:
+- '0.08511182116682912:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_desc-brain_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_desc-brain_T1w.nii.gz
+
+
+  '
+- '0.9218229606874239:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_desc-brain_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_desc-brain_T1w.nii.gz
+
+
+  '
+- '0.9585161902585241:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_desc-brain_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_desc-brain_T1w.nii.gz
+
+
+  '
+- '0.20646997494708041:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_desc-brain_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_desc-brain_T1w.nii.gz
+
+
+  '
+desc-preproc_T1w:
+- '0.07437623791073965:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_desc-preproc_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_desc-preproc_T1w.nii.gz
+
+
+  '
+- '0.8936789957478323:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_desc-preproc_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_desc-preproc_T1w.nii.gz
+
+
+  '
+- '0.9622733677291778:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_desc-preproc_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_desc-preproc_T1w.nii.gz
+
+
+  '
+- '0.17788850854131083:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_desc-preproc_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_desc-preproc_T1w.nii.gz
+
+
+  '
+label-CSF_desc-preproc_mask:
+- '0.9710452265826562:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9145003304142505:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9503114157782998:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.940234244106373:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9591323439591419:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9531516331582846:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+label-CSF_mask:
+- '0.9641996835327167:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-CSF_mask.nii.gz
+
+
+  '
+- '0.9025136976561783:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-CSF_mask.nii.gz
+
+
+  '
+- '0.9739930224643227:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-CSF_mask.nii.gz
+
+
+  '
+- '0.8838746324182309:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-CSF_mask.nii.gz
+
+
+  '
+- '0.9641506039677462:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_label-CSF_mask.nii.gz
+
+
+  '
+- '0.8944207557257853:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-CSF_mask.nii.gz
+
+
+  '
+label-CSF_probseg:
+- 'nan:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-CSF_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-CSF_probseg.nii.gz
+
+
+  '
+- '1.544087075897549e-09:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-CSF_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-CSF_probseg.nii.gz
+
+
+  '
+- '0.7135773621129419:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-CSF_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-CSF_probseg.nii.gz
+
+
+  '
+- '-1.9294203163317627e-13:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-CSF_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-CSF_probseg.nii.gz
+
+
+  '
+- 'nan:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_label-CSF_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_label-CSF_probseg.nii.gz
+
+
+  '
+- 'nan:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-CSF_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-CSF_probseg.nii.gz
+
+
+  '
+label-GM_desc-preproc_mask:
+- '0.9732304417276963:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-GM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-GM_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9421950026321673:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-GM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-GM_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9772012187095803:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-GM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-GM_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9446056142376565:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-GM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-GM_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9487081612247378:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-GM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-GM_desc-preproc_mask.nii.gz
+
+
+  '
+label-GM_mask:
+- '0.9784955523854629:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-GM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-GM_mask.nii.gz
+
+
+  '
+- '0.9361208145403981:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-GM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-GM_mask.nii.gz
+
+
+  '
+- '0.9297192864195304:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-GM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-GM_mask.nii.gz
+
+
+  '
+- '0.9429567232602514:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-GM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-GM_mask.nii.gz
+
+
+  '
+label-GM_probseg:
+- '0.9734440636020859:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-GM_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-GM_probseg.nii.gz
+
+
+  '
+- '0.9707957889637271:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-GM_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-GM_probseg.nii.gz
+
+
+  '
+- '0.9792657988527458:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-GM_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-GM_probseg.nii.gz
+
+
+  '
+label-WM_desc-preproc_mask:
+- '0.9714620125498833:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-WM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-WM_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9774271939878452:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-WM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-WM_desc-preproc_mask.nii.gz
+
+
+  '
+label-WM_mask:
+- '0.9361223609801878:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-WM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-WM_mask.nii.gz
+
+
+  '
+- '0.9351200477793131:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-WM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-WM_mask.nii.gz
+
+
+  '
+- '0.9498986726283247:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-WM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-WM_mask.nii.gz
+
+
+  '
+label-WM_probseg:
+- '0.9660027070127901:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-WM_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-WM_probseg.nii.gz
+
+
+  '
+- '0.9676560360816039:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-WM_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-WM_probseg.nii.gz
+
+
+  '
+- '0.9757658093650521:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-WM_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-WM_probseg.nii.gz
+
+
+  '
+run-space-template_desc-brain_bold:
+- '0.7105316330225726:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-brain_bold.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-brain_bold.nii.gz
+
+
+  '
+- '0.8240453294926845:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-brain_bold.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-brain_bold.nii.gz
+
+
+  '
+- '0.3515046161417108:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-brain_bold.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-brain_bold.nii.gz
+
+
+  '
+space-template_desc-brain_T1w:
+- '0.07883071544898079:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_space-template_desc-brain_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_space-template_desc-brain_T1w.nii.gz
+
+
+  '
+- '0.9170469653145925:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_space-template_desc-brain_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_space-template_desc-brain_T1w.nii.gz
+
+
+  '
+- '0.95623866274992:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_space-template_desc-brain_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_space-template_desc-brain_T1w.nii.gz
+
+
+  '
+- '0.19673251711547918:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_space-template_desc-brain_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_space-template_desc-brain_T1w.nii.gz
+
+
+  '
+space-template_desc-brain_bold:
+- '0.6251905778273451:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-template_desc-brain_bold.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-template_desc-brain_bold.nii.gz
+
+
+  '
+space-template_label-CSF_mask:
+- '0.9641996835327167:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_space-template_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_space-template_label-CSF_mask.nii.gz
+
+
+  '
+- '0.9025136976561783:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_space-template_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_space-template_label-CSF_mask.nii.gz
+
+
+  '
+- '0.9739930224643227:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_space-template_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_space-template_label-CSF_mask.nii.gz
+
+
+  '
+- '0.8838746324182309:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_space-template_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_space-template_label-CSF_mask.nii.gz
+
+
+  '
+- '0.9641506039677462:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_space-template_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_space-template_label-CSF_mask.nii.gz
+
+
+  '
+- '0.8944207557257853:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_space-template_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_space-template_label-CSF_mask.nii.gz
+
+
+  '
+space-template_label-GM_mask:
+- '0.9784955523854629:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_space-template_label-GM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_space-template_label-GM_mask.nii.gz
+
+
+  '
+- '0.9361208145403981:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_space-template_label-GM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_space-template_label-GM_mask.nii.gz
+
+
+  '
+- '0.9297192864195304:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_space-template_label-GM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_space-template_label-GM_mask.nii.gz
+
+
+  '
+- '0.9429567232602514:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_space-template_label-GM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_space-template_label-GM_mask.nii.gz
+
+
+  '
+space-template_label-WM_mask:
+- '0.9361223609801878:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_space-template_label-WM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_space-template_label-WM_mask.nii.gz
+
+
+  '
+- '0.9351200477793131:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_space-template_label-WM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_space-template_label-WM_mask.nii.gz
+
+
+  '
+- '0.9498986726283247:
+
+  /media/ebs/runs/v183_abcd-options-fixedseed-2022/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_space-template_label-WM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_space-template_label-WM_mask.nii.gz
+
+
+  '

@@ -1,0 +1,2 @@
+space-template_desc-weighted-zstd-2_eigen-centrality: 0.8199239959105039
+space-template_desc-weighted-zstd-1_eigen-centrality: 0.9992852553436108

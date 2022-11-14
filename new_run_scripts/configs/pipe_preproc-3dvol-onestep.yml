@@ -1,0 +1,21 @@
+%YAML 1.1
+---
+# CPAC Pipeline Configuration YAML file
+# # Version 1.8.3
+# #
+# # http://fcp-indi.github.io for more info.
+# #
+# # Tip: This file can be edited manually with a text editor for quick modifications.
+
+FROM: preproc
+
+registration_workflows:
+  functional_registration:
+    func_registration_to_template:
+      apply_transform:
+        using: 'single_step_resampling'
+
+functional_preproc:
+  motion_estimates_and_correction:
+    motion_correction:
+      using: ['3dvolreg']

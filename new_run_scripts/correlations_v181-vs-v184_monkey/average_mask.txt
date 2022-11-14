@@ -1,0 +1,4 @@
+space-bold_desc-brain_mask: 0.9773449706101734
+space-template_desc-bold_mask: 0.8554998209702752
+space-template_res-derivative_desc-bold_mask: 0.8554998209702752
+space-T1w_desc-brain_mask: 0.9544118265762888

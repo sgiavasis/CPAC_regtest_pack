@@ -1,0 +1,259 @@
+desc-brain_T1w:
+- '0.08531753174364949:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_desc-brain_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_desc-brain_T1w.nii.gz
+
+
+  '
+desc-preproc_T1w:
+- '0.0744656847472539:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_desc-preproc_T1w.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_desc-preproc_T1w.nii.gz
+
+
+  '
+label-CSF_desc-preproc_mask:
+- '0.9699580849229225:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9423594076641563:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9679089673052989:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9589666549032708:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.960162429848844:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.956010553475899:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9475088662636133:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-CSF_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-CSF_desc-preproc_mask.nii.gz
+
+
+  '
+label-CSF_mask:
+- '0.9104881215197057:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-CSF_mask.nii.gz
+
+
+  '
+- '0.9768588541741214:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-CSF_mask.nii.gz
+
+
+  '
+- '0.9669214488840071:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-CSF_mask.nii.gz
+
+
+  '
+- '0.9737832861127211:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_label-CSF_mask.nii.gz
+
+
+  '
+- '0.9231964076060882:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-CSF_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-CSF_mask.nii.gz
+
+
+  '
+label-CSF_probseg:
+- '4.7862937947859025e-14:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-CSF_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAD481FXF_1/anat/sub-NDARAD481FXF_1_label-CSF_probseg.nii.gz
+
+
+  '
+- 'nan:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-CSF_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-CSF_probseg.nii.gz
+
+
+  '
+- '2.1008190188971675e-10:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-CSF_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-CSF_probseg.nii.gz
+
+
+  '
+- '2.4121831577080093e-16:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-CSF_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/1019436_1/anat/sub-1019436_1_label-CSF_probseg.nii.gz
+
+
+  '
+- 'nan:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-CSF_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3884955_1/anat/sub-3884955_1_label-CSF_probseg.nii.gz
+
+
+  '
+- 'nan:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_label-CSF_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3699991_1/anat/sub-3699991_1_label-CSF_probseg.nii.gz
+
+
+  '
+- '0.9635268475131623:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-CSF_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-CSF_probseg.nii.gz
+
+
+  '
+label-GM_desc-preproc_mask:
+- '0.9477553026193837:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-GM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-GM_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.9645639118868788:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-GM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-GM_desc-preproc_mask.nii.gz
+
+
+  '
+label-GM_mask:
+- '0.9379801384655261:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-GM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-GM_mask.nii.gz
+
+
+  '
+- '0.9665664973078675:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-GM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-GM_mask.nii.gz
+
+
+  '
+label-GM_probseg:
+- '0.9750526497398231:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-GM_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-GM_probseg.nii.gz
+
+
+  '
+label-WM_desc-preproc_mask:
+- '0.9789292995100535:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-WM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-WM_desc-preproc_mask.nii.gz
+
+
+  '
+- '0.977462970593424:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-WM_desc-preproc_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/sub-NDARAV894XWD_1/anat/sub-NDARAV894XWD_1_label-WM_desc-preproc_mask.nii.gz
+
+
+  '
+label-WM_mask:
+- '0.936679753235877:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-WM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-WM_mask.nii.gz
+
+
+  '
+- '0.9730547858734064:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-WM_mask.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/2014113_1/anat/sub-2014113_1_label-WM_mask.nii.gz
+
+
+  '
+label-WM_probseg:
+- '0.9671228633324456:
+
+  /media/ebs/runs/v181_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-WM_probseg.nii.gz
+
+  /media/ebs/runs/v184_abcd-options/output/cpac_cpac_abcd-options/3154996_1/anat/sub-3154996_1_label-WM_probseg.nii.gz
+
+
+  '

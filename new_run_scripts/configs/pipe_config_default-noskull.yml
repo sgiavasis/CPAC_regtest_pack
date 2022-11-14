@@ -1,0 +1,15 @@
+%YAML 1.1
+---
+# CPAC Pipeline Configuration YAML file
+# # Version 1.8.3
+# #
+# # http://fcp-indi.github.io for more info.
+# #
+# # Tip: This file can be edited manually with a text editor for quick modifications.
+#
+
+FROM: default
+
+registration_workflows:
+  anatomical_registration:
+    reg_with_skull: Off

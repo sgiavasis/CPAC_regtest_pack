@@ -1,0 +1,21 @@
+settings:
+  n_cpus: 16
+  correlations_dir: /media/ebs/CPAC_regtest_pack/new_run_scripts/correlations
+  run_name: 'v181-vs-v184_monkey'
+  s3_creds:
+  quick: False
+  verbose: True
+
+pipelines:
+  v181_monkey:
+    output_dir: /media/ebs/runs/v182-NHP_nhp/output/cpac_cpac_default_monkey_skullstrip 
+    work_dir: /media/ebs/runs/v182-NHP_nhp/working
+    log_dir: /media/ebs/runs/v182-NHP_nhp/working/log
+    pipe_config: /media/ebs/runs/v182-NHP_nhp/cpac_pipeline_config_2021-10-26T19-20-37Z.yml
+    replacements:
+  v184_monkey:
+    output_dir: /media/ebs/runs/v184_NHP/output/cpac_cpac_default_monkey_skullstrip
+    work_dir: /media/ebs/runs/v184_NHP/working
+    log_dir: /media/ebs/runs/v184_NHP/working/log
+    pipe_config: /media/ebs/runs/v184_NHP/cpac_pipeline_config_2022-05-06T06-10-32Z.yml
+    replacements:

@@ -1,0 +1,4 @@
+space-template_desc-binarized-zstd-1_degree-centrality: 0.9989922591536151
+space-template_desc-binarized-zstd-2_degree-centrality: 0.9874854274864351
+space-template_desc-weighted-zstd-1_degree-centrality: 0.999057390496868
+space-template_desc-weighted-zstd-2_degree-centrality: 0.9883325189608898

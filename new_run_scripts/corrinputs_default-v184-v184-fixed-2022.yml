@@ -1,0 +1,21 @@
+settings:
+  n_cpus: 16
+  correlations_dir: /media/ebs/CPAC_regtest_pack/new_run_scripts/correlations
+  run_name: 'v184-vs-v184_default-fixed-2022'
+  s3_creds:
+  quick: False
+  verbose: True
+
+pipelines:
+  v184_default-fixed-2022:
+    output_dir: /media/ebs/runs/v184_default-fixedseed-2022/output/cpac_cpac-default-pipeline
+    work_dir: /media/ebs/runs/v184_default-fixedseed-2022/working
+    log_dir: /media/ebs/runs/v184_default-fixedseed-2022/working/log
+    pipe_config:
+    replacements:
+  v184_default-fixed-2022-2:
+    output_dir: /media/ebs/runs/v184_default-fixedseed-2022-2/output/cpac_cpac-default-pipeline
+    work_dir: /media/ebs/runs/v184_default-fixedseed-2022-2/working
+    log_dir: /media/ebs/runs/v184_default-fixedseed-2022-2/working/log
+    pipe_config:
+    replacements:

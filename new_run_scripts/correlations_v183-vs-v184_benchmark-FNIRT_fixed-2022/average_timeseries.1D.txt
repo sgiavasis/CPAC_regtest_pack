@@ -1,0 +1,6 @@
+atlas-rois2mm_desc-Mean-4_timeseries.1D: 0.9245817657607073
+atlas-rois2mm_desc-Mean-2_timeseries.1D: 1.0
+atlas-rois2mm_desc-Mean-3_timeseries.1D: 0.9999999999999999
+atlas-rois2mm_desc-Mean-5_timeseries.1D: 0.9404791953186573
+atlas-rois2mm_desc-Mean-6_timeseries.1D: 0.9614783432079801
+atlas-rois2mm_desc-Mean-1_timeseries.1D: 0.9999999999999999

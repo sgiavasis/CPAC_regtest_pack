@@ -1,0 +1,6 @@
+atlas-ttmaskpad_desc-Mean-timeseries.1D: 0.9973109281794468
+atlas-homaskpad_desc-Mean-timeseries.1D: 0.9973570036434067
+atlas-rois3mm_desc-Mean-timeseries.1D: 0.9913302050568944
+atlas-CC400_desc-Mean-timeseries.1D: 0.995660064852578
+atlas-CC200_desc-Mean-timeseries.1D: 0.9964635643282864
+atlas-aalmaskpad_desc-Mean-timeseries.1D: 0.9972319990475889

@@ -1,0 +1,1 @@
+atlas-DKTspace-MNI152NLin6res-1x1xdesc-Mean-timeseries.1D: 0.9997781266241279

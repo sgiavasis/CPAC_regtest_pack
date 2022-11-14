@@ -1,0 +1,20 @@
+- anat: /media/ebs/data/nhp/oxford/sub-032167/ses-001/anat/sub-032167_ses-001_run-1_T1w.nii.gz
+  creds_path: null
+  func:
+    resting_run-1:
+      scan: /media/ebs/data/nhp/oxford/sub-032167/ses-001/func/sub-032167_ses-001_task-resting_run-1_bold.nii.gz
+      scan_parameters:
+        EchoTime: 0.019
+        EffectiveEchoSpacing: 0.36
+        FlipAngle: 90.0
+        MagneticFieldStrenth: 3.0
+        Manufacturer: !!binary |
+          U2llbWVucw==
+        ManufacturesModelName: !!binary |
+          U3luZ28gQjE3
+        RepetitionTime: 2.0074996948242188
+        TaskName: !!binary |
+          UmVzdGluZw==
+  site_id: site-none
+  subject_id: sub-032167
+  unique_id: ses-001

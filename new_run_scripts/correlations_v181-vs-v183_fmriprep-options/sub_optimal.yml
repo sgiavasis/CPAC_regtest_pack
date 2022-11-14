@@ -1,0 +1,143 @@
+desc-mean_bold:
+- '0.9655621560776694:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-mean_bold.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-mean_bold.nii.gz
+
+
+  '
+- '0.9763745687414276:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+
+
+  '
+- '0.9745405583087159:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+
+
+  '
+regressors.1D:
+- '0.9770389208726148:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_regressors.1D
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_regressors.1D
+
+
+  '
+- '0.9295766251444523:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_regressors.1D
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_regressors.1D
+
+
+  '
+- '0.9277666331407348:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_regressors.1D
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_regressors.1D
+
+
+  '
+space-T1w_desc-mean_bold:
+- '0.9381636280967827:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-T1w_desc-mean_bold.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-T1w_desc-mean_bold.nii.gz
+
+
+  '
+space-bold_desc-brain_mask:
+- '0.9572694276888091:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-bold_desc-brain_mask.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-bold_desc-brain_mask.nii.gz
+
+
+  '
+space-template_desc-brain_bold:
+- '0.971476418381837:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-brain_bold.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-brain_bold.nii.gz
+
+
+  '
+- '0.7528595911064829:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-template_desc-brain_bold.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-template_desc-brain_bold.nii.gz
+
+
+  '
+- '0.831491313358479:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-brain_bold.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-brain_bold.nii.gz
+
+
+  '
+space-template_desc-mean_bold:
+- '0.9698782904474631:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-mean_bold.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-mean_bold.nii.gz
+
+
+  '
+- '0.975920264557373:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-template_desc-mean_bold.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-template_desc-mean_bold.nii.gz
+
+
+  '
+- '0.9753550334710301:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-mean_bold.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-mean_bold.nii.gz
+
+
+  '
+space-template_desc-preproc_bold:
+- '0.9662301009630192:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-preproc_bold.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-preproc_bold.nii.gz
+
+
+  '
+- '0.7117234082850817:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-template_desc-preproc_bold.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-template_desc-preproc_bold.nii.gz
+
+
+  '
+- '0.8095698123876831:
+
+  /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-preproc_bold.nii.gz
+
+  /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-preproc_bold.nii.gz
+
+
+  '

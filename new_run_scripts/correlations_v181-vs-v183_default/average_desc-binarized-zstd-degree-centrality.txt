@@ -1,0 +1,1 @@
+space-template_desc-binarized-zstd-degree-centrality: 0.9698434236961296

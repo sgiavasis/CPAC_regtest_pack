@@ -1,0 +1,21 @@
+settings:
+  n_cpus: 16
+  correlations_dir: /media/ebs/CPAC_regtest_pack/new_run_scripts/correlations
+  run_name: 'v183-vs-v184_fx-options_fixed-2022'
+  s3_creds:
+  quick: False
+  verbose: True
+
+pipelines:
+  v183_fx-options_fixed-2022:
+    output_dir: /media/ebs/runs/v183_fx-options-fixedseed-2022/output/cpac_cpac_fx-options 
+    work_dir: /media/ebs/runs/v181_fx-options/working
+    log_dir: /media/ebs/runs/v181_fx-options/working/log
+    pipe_config: /media/ebs/runs/v181_fx-options/cpac_pipeline_config_2022-05-08T03-14-56Z.yml
+    replacements:
+  v184_fx-options_fixed-2022:
+    output_dir: /media/ebs/runs/v184_fx-options-fixedseed-2022/output/cpac_cpac_fx-options
+    work_dir: /media/ebs/runs/v184_fx-options/working
+    log_dir: /media/ebs/runs/v184_fx-options/working/log
+    pipe_config: /media/ebs/runs/v184_fx-options/cpac_pipeline_config_2022-05-06T22-48-06Z.yml
+    replacements:

@@ -1,0 +1,2 @@
+desc-preproc_bold: 1.0
+space-T1w_desc-mean_bold: 0.9986865491064412

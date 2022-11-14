@@ -1,0 +1,21 @@
+settings:
+  n_cpus: 16
+  correlations_dir: /media/ebs/CPAC_regtest_pack/new_run_scripts/correlations
+  run_name: 'v183-vs-v184_default-fixed-300'
+  s3_creds:
+  quick: False
+  verbose: True
+
+pipelines:
+  v183_default-fixed-300:
+    output_dir: /media/ebs/runs/v183_default-fixedseed-300/output/cpac_cpac-default-pipeline
+    work_dir: /media/ebs/runs/v183_default-fixedseed-300/working
+    log_dir: /media/ebs/runs/v183_default-fixedseed-300/working/log
+    pipe_config:
+    replacements:
+  v184_default-fixed-300:
+    output_dir: /media/ebs/runs/v184_default-fixedseed-300/output/cpac_cpac-default-pipeline
+    work_dir: /media/ebs/runs/v184_default-fixedseed-300/working
+    log_dir: /media/ebs/runs/v184_default-fixedseed-300/working/log
+    pipe_config:
+    replacements:

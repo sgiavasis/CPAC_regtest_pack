@@ -1,0 +1,1 @@
+space-template_desc-binarized-zstd-lfcd: 0.976368821871668

@@ -1,0 +1,1888 @@
+acq-run-atlas-rois2mm_desc-Mean-4_timeseries.1D:
+- '0.9224280414250238:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+
+  '
+- '0.9187699705721972:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+
+  '
+acq-run-atlas-rois2mm_desc-Mean-5_timeseries.1D:
+- '0.9418843874079142:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+
+  '
+- '0.9369125137758993:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+
+  '
+acq-run-atlas-rois2mm_desc-Mean-6_timeseries.1D:
+- '0.9537652319346062:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+
+  '
+- '0.9678235802655026:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+
+  '
+acq-run-desc-3_regressors.1D:
+- '0.6892564780807728:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-3_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-3_regressors.1D
+
+
+  '
+- '0.8911355016708914:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-3_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-3_regressors.1D
+
+
+  '
+acq-run-desc-6_regressors.1D:
+- '0.8255604926142482:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-6_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-6_regressors.1D
+
+
+  '
+acq-run-desc-cleaned-5_bold:
+- '0.9341149617452824:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-5_bold.nii.gz
+
+
+  '
+- '0.9222087790345652:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-5_bold.nii.gz
+
+
+  '
+acq-run-desc-cleaned-6_bold:
+- '0.9540706674022336:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-6_bold.nii.gz
+
+
+  '
+- '0.9425625838303162:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-6_bold.nii.gz
+
+
+  '
+acq-run-desc-cleaned-7_bold:
+- '0.9657647521862596:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-7_bold.nii.gz
+
+
+  '
+- '0.9552686295671353:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-7_bold.nii.gz
+
+
+  '
+acq-run-desc-cleaned-bold:
+- '0.953538999013034:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-cleaned-1_bold.nii.gz
+
+
+  '
+- '0.9250786422402429:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-cleaned-1_bold.nii.gz
+
+
+  '
+acq-run-desc-preproc-4_bold:
+- '0.9341149617452824:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.9222087790345652:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-preproc-4_bold.nii.gz
+
+
+  '
+acq-run-desc-preproc-5_bold:
+- '0.9540706674022336:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-preproc-5_bold.nii.gz
+
+
+  '
+- '0.9425625838303162:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-preproc-5_bold.nii.gz
+
+
+  '
+acq-run-desc-preproc-6_bold:
+- '0.9657647521862596:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-preproc-6_bold.nii.gz
+
+
+  '
+- '0.9552686295671353:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-preproc-6_bold.nii.gz
+
+
+  '
+acq-run-desc-sm4-5_bold:
+- '0.92576794566318:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-5_bold.nii.gz
+
+
+  '
+- '0.9120963620218991:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-5_bold.nii.gz
+
+
+  '
+acq-run-desc-sm4-6_bold:
+- '0.949034547682633:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-6_bold.nii.gz
+
+
+  '
+- '0.9377363238963187:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-6_bold.nii.gz
+
+
+  '
+acq-run-desc-sm4-7_bold:
+- '0.9640004141584956:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-7_bold.nii.gz
+
+
+  '
+- '0.9534244711389332:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-7_bold.nii.gz
+
+
+  '
+acq-run-desc-sm4-bold:
+- '0.9513589388379127:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_desc-sm4-1_bold.nii.gz
+
+
+  '
+- '0.9269294570015605:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_desc-sm4-1_bold.nii.gz
+
+
+  '
+acq-run-space-symtemplate_desc-sm-5_bold:
+- '0.9179677020826386:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+
+  '
+- '0.9017527339630035:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+
+  '
+acq-run-space-symtemplate_desc-sm-6_bold:
+- '0.9416521381034109:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+
+  '
+- '0.9312864667378504:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+
+  '
+acq-run-space-symtemplate_desc-sm-7_bold:
+- '0.9575706678396779:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+
+  '
+- '0.9474468009366024:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+
+  '
+acq-run-space-symtemplate_desc-sm-bold:
+- '0.9465154354983565:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+
+  '
+- '0.9203619473143603:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+
+  '
+acq-run-space-template_desc-preproc-4_bold:
+- '0.9258302836571273:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.9079789011608433:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+
+  '
+acq-run-space-template_desc-preproc-5_bold:
+- '0.9469167264971569:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+
+  '
+- '0.9342674533554876:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+
+  '
+acq-run-space-template_desc-preproc-6_bold:
+- '0.9601173254990553:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/1019436_1/func/sub-1019436_1_task-rest_acq-1_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+
+  '
+- '0.9478680210537768:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3699991_1/func/sub-3699991_1_task-rest_acq-1_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+
+  '
+atlas-rois2mm_desc-Mean-4_timeseries.1D:
+- '0.9724623716197929:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+
+  '
+- '0.9236721056968724:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+
+  '
+- '0.896615256198292:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+
+  '
+- '0.9648397558388465:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+
+  '
+atlas-rois2mm_desc-Mean-5_timeseries.1D:
+- '0.9312754275375985:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+
+  '
+- '0.9391817607861178:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+
+  '
+- '0.9758072111257352:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+
+  '
+- '0.9589600472702646:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+
+  '
+atlas-rois2mm_desc-Mean-6_timeseries.1D:
+- '0.9729148291269014:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+
+  '
+- '0.9387538829115931:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+
+  '
+- '0.9752666786309753:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+
+  '
+- '0.9764201806320363:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+
+  '
+desc-3_regressors.1D:
+- '0.8073838409137337:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-3_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-3_regressors.1D
+
+
+  '
+- '0.8302993304996106:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-3_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-3_regressors.1D
+
+
+  '
+- '0.7629466056034659:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-3_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-3_regressors.1D
+
+
+  '
+- '0.9016902689253251:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-3_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-3_regressors.1D
+
+
+  '
+- '0.8803661494540661:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-3_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-3_regressors.1D
+
+
+  '
+- '0.9056442613501154:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-3_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-3_regressors.1D
+
+
+  '
+- '0.8584194963335803:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-3_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-3_regressors.1D
+
+
+  '
+desc-6_regressors.1D:
+- '0.777662307525014:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-6_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-6_regressors.1D
+
+
+  '
+- '0.9276964524305843:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-6_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-6_regressors.1D
+
+
+  '
+- '0.8023841187364429:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-6_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAV894XWD_1/func/sub-NDARAV894XWD_1_task-task-rest_desc-6_regressors.1D
+
+
+  '
+- '0.866690808517875:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-6_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-6_regressors.1D
+
+
+  '
+- '0.8637840637713947:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-6_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-6_regressors.1D
+
+
+  '
+- '0.8381056918274775:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-6_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-6_regressors.1D
+
+
+  '
+- '0.8076534214517251:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-6_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-6_regressors.1D
+
+
+  '
+- '0.9061061516371556:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-6_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-6_regressors.1D
+
+
+  '
+desc-cleaned-1_bold:
+- '0.9671223409186083:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+
+
+  '
+- '0.8829743618136005:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+
+
+  '
+- '0.9248675938848495:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+
+
+  '
+- '0.9607664130953839:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+
+
+  '
+- '0.9243288129931768:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-1_bold.nii.gz
+
+
+  '
+desc-cleaned-5_bold:
+- '0.9746368729028243:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-cleaned-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-cleaned-5_bold.nii.gz
+
+
+  '
+- '0.9198249316746494:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-5_bold.nii.gz
+
+
+  '
+- '0.9276747717230059:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-cleaned-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-cleaned-5_bold.nii.gz
+
+
+  '
+- '0.9543651732308921:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-5_bold.nii.gz
+
+
+  '
+- '0.9582510625115191:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-5_bold.nii.gz
+
+
+  '
+desc-cleaned-6_bold:
+- '0.9672703568393763:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-cleaned-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-cleaned-6_bold.nii.gz
+
+
+  '
+- '0.9353459548241626:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-6_bold.nii.gz
+
+
+  '
+- '0.9539539808294973:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-cleaned-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-cleaned-6_bold.nii.gz
+
+
+  '
+- '0.9563792807037893:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-6_bold.nii.gz
+
+
+  '
+- '0.9680623064545184:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-6_bold.nii.gz
+
+
+  '
+desc-cleaned-7_bold:
+- '0.9677296990217523:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-7_bold.nii.gz
+
+
+  '
+- '0.946177180143825:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-cleaned-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-cleaned-7_bold.nii.gz
+
+
+  '
+- '0.9648375204023882:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-cleaned-7_bold.nii.gz
+
+
+  '
+- '0.948083888806413:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-cleaned-7_bold.nii.gz
+
+
+  '
+desc-cleaned-bold:
+- '0.9789545969648635:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-cleaned-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-cleaned-1_bold.nii.gz
+
+
+  '
+- '0.9059192527534231:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-cleaned-1_bold.nii.gz
+
+
+  '
+desc-preproc-4_bold:
+- '0.9746368729028243:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.9198249316746494:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.9276747717230059:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.9543651732308921:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.9582510625115191:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-preproc-4_bold.nii.gz
+
+
+  '
+desc-preproc-5_bold:
+- '0.9672703568393763:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-preproc-5_bold.nii.gz
+
+
+  '
+- '0.9353459548241626:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-preproc-5_bold.nii.gz
+
+
+  '
+- '0.9539539808294973:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-preproc-5_bold.nii.gz
+
+
+  '
+- '0.9563792807037893:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-preproc-5_bold.nii.gz
+
+
+  '
+- '0.9680623064545184:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-preproc-5_bold.nii.gz
+
+
+  '
+desc-preproc-6_bold:
+- '0.9677296990217523:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-preproc-6_bold.nii.gz
+
+
+  '
+- '0.946177180143825:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-preproc-6_bold.nii.gz
+
+
+  '
+- '0.9648375204023882:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-preproc-6_bold.nii.gz
+
+
+  '
+- '0.948083888806413:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-preproc-6_bold.nii.gz
+
+
+  '
+desc-sm4-1_bold:
+- '0.9737769208832868:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+
+
+  '
+- '0.8849337359158189:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+
+
+  '
+- '0.9340855707447061:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+
+
+  '
+- '0.9715904041122824:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+
+
+  '
+- '0.9342262490780108:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-1_bold.nii.gz
+
+
+  '
+desc-sm4-5_bold:
+- '0.968237916984765:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-sm4-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-sm4-5_bold.nii.gz
+
+
+  '
+- '0.9109065334177892:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-5_bold.nii.gz
+
+
+  '
+- '0.9130890514752087:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-sm4-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-sm4-5_bold.nii.gz
+
+
+  '
+- '0.9542187365402408:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-5_bold.nii.gz
+
+
+  '
+- '0.9559751991551326:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-5_bold.nii.gz
+
+
+  '
+desc-sm4-6_bold:
+- '0.9673672713437861:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-sm4-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-sm4-6_bold.nii.gz
+
+
+  '
+- '0.925906555757557:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-6_bold.nii.gz
+
+
+  '
+- '0.9419906813292576:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-sm4-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-sm4-6_bold.nii.gz
+
+
+  '
+- '0.9536523219688813:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-6_bold.nii.gz
+
+
+  '
+- '0.9650291936159976:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-6_bold.nii.gz
+
+
+  '
+desc-sm4-7_bold:
+- '0.9602344773214889:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-7_bold.nii.gz
+
+
+  '
+- '0.9337052120430589:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-sm4-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-sm4-7_bold.nii.gz
+
+
+  '
+- '0.9677599624960298:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-sm4-7_bold.nii.gz
+
+
+  '
+- '0.9482070789509205:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025448_ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-sm4-7_bold.nii.gz
+
+
+  '
+desc-sm4-bold:
+- '0.9657910219681387:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-sm4-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_desc-sm4-1_bold.nii.gz
+
+
+  '
+- '0.8952764566936191:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_desc-sm4-1_bold.nii.gz
+
+
+  '
+run-atlas-rois2mm_desc-Mean-4_timeseries.1D:
+- '0.9333169017305846:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+
+  '
+- '0.94074654811947:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-4_timeseries.1D
+
+
+  '
+run-atlas-rois2mm_desc-Mean-5_timeseries.1D:
+- '0.9238394328850651:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+
+  '
+- '0.9419519729470945:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-5_timeseries.1D
+
+
+  '
+run-atlas-rois2mm_desc-Mean-6_timeseries.1D:
+- '0.9494488696466608:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+
+  '
+- '0.9611548526055549:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_atlas-rois2mm_desc-Mean-6_timeseries.1D
+
+
+  '
+run-desc-3_regressors.1D:
+- '0.7925358497597308:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-3_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-3_regressors.1D
+
+
+  '
+- '0.8697816051721545:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-3_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-3_regressors.1D
+
+
+  '
+run-desc-6_regressors.1D:
+- '0.8001599004389264:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-6_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-6_regressors.1D
+
+
+  '
+- '0.9252459839812843:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-6_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-6_regressors.1D
+
+
+  '
+- '0.7361846328627653:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-6_regressors.1D
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-6_regressors.1D
+
+
+  '
+run-desc-cleaned-5_bold:
+- '0.9719362594271457:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-cleaned-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-cleaned-5_bold.nii.gz
+
+
+  '
+- '0.9280959109445102:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-5_bold.nii.gz
+
+
+  '
+- '0.9382454878817842:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-5_bold.nii.gz
+
+
+  '
+run-desc-cleaned-6_bold:
+- '0.9295278555221159:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-6_bold.nii.gz
+
+
+  '
+- '0.9532177301121098:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-6_bold.nii.gz
+
+
+  '
+run-desc-cleaned-7_bold:
+- '0.9789457496564057:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-cleaned-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-cleaned-7_bold.nii.gz
+
+
+  '
+- '0.93105931576632:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-7_bold.nii.gz
+
+
+  '
+- '0.9656571595349069:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-7_bold.nii.gz
+
+
+  '
+run-desc-cleaned-bold:
+- '0.9753709120469861:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-cleaned-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-cleaned-1_bold.nii.gz
+
+
+  '
+- '0.8681529433559301:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-cleaned-1_bold.nii.gz
+
+
+  '
+- '0.9602648557596236:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-cleaned-1_bold.nii.gz
+
+
+  '
+run-desc-preproc-4_bold:
+- '0.9719362594271457:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.9280959109445102:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.9382454878817842:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-preproc-4_bold.nii.gz
+
+
+  '
+run-desc-preproc-5_bold:
+- '0.9295278555221159:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-preproc-5_bold.nii.gz
+
+
+  '
+- '0.9532177301121098:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-preproc-5_bold.nii.gz
+
+
+  '
+run-desc-preproc-6_bold:
+- '0.9789457496564057:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-preproc-6_bold.nii.gz
+
+
+  '
+- '0.93105931576632:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-preproc-6_bold.nii.gz
+
+
+  '
+- '0.9656571595349069:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-preproc-6_bold.nii.gz
+
+
+  '
+run-desc-sm4-5_bold:
+- '0.9710285033532743:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-5_bold.nii.gz
+
+
+  '
+- '0.9273793211409707:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-5_bold.nii.gz
+
+
+  '
+- '0.935105545113542:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-5_bold.nii.gz
+
+
+  '
+run-desc-sm4-6_bold:
+- '0.9786866119459734:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-6_bold.nii.gz
+
+
+  '
+- '0.9258865811638225:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-6_bold.nii.gz
+
+
+  '
+- '0.9485574807144249:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-6_bold.nii.gz
+
+
+  '
+run-desc-sm4-7_bold:
+- '0.9776782523739971:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-7_bold.nii.gz
+
+
+  '
+- '0.9303938226916103:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-7_bold.nii.gz
+
+
+  '
+- '0.9641839521711623:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-7_bold.nii.gz
+
+
+  '
+run-desc-sm4-bold:
+- '0.9748456078951737:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_desc-sm4-1_bold.nii.gz
+
+
+  '
+- '0.8664126060074105:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_desc-sm4-1_bold.nii.gz
+
+
+  '
+- '0.9602786806560661:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_desc-sm4-1_bold.nii.gz
+
+
+  '
+run-space-symtemplate_desc-sm-5_bold:
+- '0.9677587188059846:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+
+  '
+- '0.9204367252917206:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+
+  '
+- '0.9281221422485647:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+
+  '
+run-space-symtemplate_desc-sm-6_bold:
+- '0.9764388130345675:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+
+  '
+- '0.9192749386073436:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+
+  '
+- '0.9416058314005548:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+
+  '
+run-space-symtemplate_desc-sm-7_bold:
+- '0.9748480763474552:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+
+  '
+- '0.9213963939377607:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+
+  '
+- '0.9569843718088938:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+
+  '
+run-space-symtemplate_desc-sm-bold:
+- '0.9723119380841839:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+
+  '
+- '0.8547752021437702:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+
+  '
+- '0.9540899863739231:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+
+  '
+run-space-template_desc-preproc-4_bold:
+- '0.9681717181839602:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.9195773712531589:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.9295782791407291:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+
+  '
+run-space-template_desc-preproc-5_bold:
+- '0.9774242068582176:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+
+  '
+- '0.9202431122019253:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+
+  '
+- '0.9448102692512123:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+
+  '
+run-space-template_desc-preproc-6_bold:
+- '0.9754043700696908:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3154996_1/func/sub-3154996_1_task-rest_acq-2_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+
+  '
+- '0.9219817141012063:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/3884955_1/func/sub-3884955_1_task-rest_acq-2_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+
+  '
+- '0.9583464937110522:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/2014113_1/func/sub-2014113_1_task-rest_acq-2_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+
+  '
+space-symtemplate_desc-sm-1_bold:
+- '0.9672796891872256:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+
+  '
+- '0.8627544755551713:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+
+  '
+- '0.9302521069247751:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+
+  '
+- '0.9519273643490208:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-symtemplate_desc-sm-1_bold.nii.gz
+
+
+  '
+space-symtemplate_desc-sm-5_bold:
+- '0.9620988378236388:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-symtemplate_desc-sm-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-symtemplate_desc-sm-5_bold.nii.gz
+
+
+  '
+- '0.8950305090668691:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-symtemplate_desc-sm-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-symtemplate_desc-sm-5_bold.nii.gz
+
+
+  '
+- '0.9027949674655452:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+
+  '
+- '0.9477180839035436:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-symtemplate_desc-sm-5_bold.nii.gz
+
+
+  '
+space-symtemplate_desc-sm-6_bold:
+- '0.9778269156723927:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-symtemplate_desc-sm-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-symtemplate_desc-sm-6_bold.nii.gz
+
+
+  '
+- '0.9627888452998153:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+
+  '
+- '0.9100896862018452:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-symtemplate_desc-sm-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-symtemplate_desc-sm-6_bold.nii.gz
+
+
+  '
+- '0.9324972878145895:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+
+  '
+- '0.9468924936880554:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+
+  '
+- '0.9767440347186236:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-symtemplate_desc-sm-6_bold.nii.gz
+
+
+  '
+space-symtemplate_desc-sm-7_bold:
+- '0.9789249959812225:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+
+  '
+- '0.9503796680839421:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-symtemplate_desc-sm-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-symtemplate_desc-sm-7_bold.nii.gz
+
+
+  '
+- '0.9220056781877666:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+
+  '
+- '0.9626965642205512:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+
+  '
+- '0.9762279473624208:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-symtemplate_desc-sm-7_bold.nii.gz
+
+
+  '
+space-symtemplate_desc-sm-bold:
+- '0.9597323834401255:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-symtemplate_desc-sm-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-symtemplate_desc-sm-1_bold.nii.gz
+
+
+  '
+- '0.8764421539211573:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-symtemplate_desc-sm-1_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-symtemplate_desc-sm-1_bold.nii.gz
+
+
+  '
+space-template_desc-preproc-4_bold:
+- '0.9677011384768984:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-template_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARAD481FXF_1/func/sub-NDARAD481FXF_1_task-task-rest_space-template_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.9791963874038724:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.8984696443305771:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.9129197807086936:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+
+  '
+- '0.9459252143296655:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-template_desc-preproc-4_bold.nii.gz
+
+
+  '
+space-template_desc-preproc-5_bold:
+- '0.961719945556796:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+
+  '
+- '0.9151598791245539:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-preproc-5_bold.nii.gz
+
+
+  '
+- '0.941500754313316:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+
+  '
+- '0.9468237817419586:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+
+  '
+- '0.9754878132848349:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-preproc-5_bold.nii.gz
+
+
+  '
+space-template_desc-preproc-6_bold:
+- '0.9776637851924638:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025453_ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+
+  '
+- '0.954514927555187:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-NDARCA186WGH_1/func/sub-NDARCA186WGH_1_task-task-rest_space-template_desc-preproc-6_bold.nii.gz
+
+
+  '
+- '0.9310382409511273:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025428_ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+
+  '
+- '0.9585583396697885:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025452_ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+
+  '
+- '0.9726274746690464:
+
+  /media/ebs/runs/v183_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+  /media/ebs/runs/v184_benchmark-FNIRT-fixedseed-2022/output/cpac_benchmark-FNIRT/sub-0025429_ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-template_desc-preproc-6_bold.nii.gz
+
+
+  '

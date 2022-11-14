@@ -1,0 +1,22 @@
+settings:
+  n_cpus: 16
+  correlations_dir: /media/ebs/CPAC_regtest_pack/new_run_scripts/correlations
+  run_name: 'v181-vs-v183_benchmark-FNIRT'
+  s3_creds:
+  quick: False
+  verbose: True
+
+pipelines:
+  v181_benchmark-FNIRT:
+    output_dir: /media/ebs/runs/v181_benchmark-FNIRT/output/cpac_benchmark-FNIRT 
+    work_dir: /media/ebs/runs/v181_benchmark-FNIRT/working
+    log_dir: /media/ebs/runs/v181_benchmark-FNIRT/working/log
+    pipe_config: /media/ebs/runs/v181_benchmark-FNIRT/cpac_pipeline_config_2022-05-08T02-25-03Z.yml 
+    replacements:
+  v183_benchmark-FNIRT:
+    output_dir: /media/ebs/runs/v183_benchmark-FNIRT/output/cpac_benchmark-FNIRT 
+    work_dir: /media/ebs/runs/v183_benchmark-FNIRT/working
+    log_dir: /media/ebs/runs/v183_benchmark-FNIRT/working/log
+    pipe_config: 
+    replacements:
+            

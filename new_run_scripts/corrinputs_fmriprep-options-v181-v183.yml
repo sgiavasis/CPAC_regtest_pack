@@ -1,0 +1,21 @@
+settings:
+  n_cpus: 16
+  correlations_dir: /media/ebs/CPAC_regtest_pack/new_run_scripts/correlations
+  run_name: 'v181-vs-v183_fmriprep-options'
+  s3_creds:
+  quick: False
+  verbose: True
+
+pipelines:
+  v181_fmriprep-options:
+    output_dir: /media/ebs/runs/v181_fmriprep-options/output/cpac_cpac_fmriprep-options 
+    work_dir: /media/ebs/runs/v181_fmriprep-options/working
+    log_dir: /media/ebs/runs/v181_fmriprep-options/working/log
+    pipe_config: 
+    replacements:
+  v183_fmriprep-options:
+    output_dir: /media/ebs/runs/v183_fmriprep-options/output/cpac_cpac_fmriprep-options
+    work_dir: /media/ebs/runs/v183_fmriprep-options/working
+    log_dir: /media/ebs/runs/v183_fmriprep-options/working/log
+    pipe_config: 
+    replacements:

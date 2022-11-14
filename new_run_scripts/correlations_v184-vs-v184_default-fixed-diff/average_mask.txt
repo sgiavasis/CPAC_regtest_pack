@@ -1,0 +1,13 @@
+space-template_res-derivative_desc-bold_mask: 0.9969623624468722
+space-template_desc-bold_mask: 0.9969623624468722
+space-bold_desc-brain_mask: 0.9999999999999981
+space-template_label-CSF_mask: 0.8957866311146577
+label-CSF_mask: 0.9999999999999124
+label-GM_desc-preproc_mask: 0.9808749997369723
+label-WM_mask: 0.9999999999999494
+space-template_label-WM_mask: 0.9655486329888266
+label-WM_desc-preproc_mask: 0.9672530235906803
+label-GM_mask: 0.9999999999999257
+space-T1w_desc-brain_mask: 0.9999999999998826
+label-CSF_desc-preproc_mask: 0.9458169667032948
+space-template_label-GM_mask: 0.9271797980760225

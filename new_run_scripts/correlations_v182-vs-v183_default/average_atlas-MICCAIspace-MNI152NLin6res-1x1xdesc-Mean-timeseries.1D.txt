@@ -1,0 +1,1 @@
+atlas-MICCAIspace-MNI152NLin6res-1x1xdesc-Mean-timeseries.1D: 0.9956051621322912

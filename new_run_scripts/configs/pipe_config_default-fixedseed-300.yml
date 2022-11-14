@@ -1,0 +1,15 @@
+%YAML 1.1
+---
+# CPAC Pipeline Configuration YAML file
+# # Version 1.8.3
+# #
+# # http://fcp-indi.github.io for more info.
+# #
+# # Tip: This file can be edited manually with a text editor for quick modifications.
+#
+
+FROM: default
+
+pipeline_setup:
+  system_config:
+    random_seed: 300

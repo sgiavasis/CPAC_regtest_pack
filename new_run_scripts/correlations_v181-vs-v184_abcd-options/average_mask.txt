@@ -1,0 +1,7 @@
+label-GM_mask: 0.9807724197830936
+space-T1w_desc-brain_mask: 0.9952966365460911
+label-WM_mask: 0.9836174902590731
+label-CSF_mask: 0.9589109860510509
+label-CSF_desc-preproc_mask: 0.957586368799876
+label-WM_desc-preproc_mask: 0.9829920898858145
+label-GM_desc-preproc_mask: 0.9765307250738928

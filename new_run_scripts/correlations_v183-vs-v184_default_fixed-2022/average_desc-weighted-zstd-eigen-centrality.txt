@@ -1,0 +1,1 @@
+space-template_desc-weighted-zstd-eigen-centrality: 0.8231144944425224

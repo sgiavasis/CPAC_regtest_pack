@@ -1,0 +1,21 @@
+settings:
+  n_cpus: 16
+  correlations_dir: /media/ebs/CPAC_regtest_pack/new_run_scripts/correlations
+  run_name: 'v181-vs-v184_rodent'
+  s3_creds:
+  quick: False
+  verbose: True
+
+pipelines:
+  v181_rodent:
+    output_dir: /media/ebs/runs/v182-rodent_rodent/output/cpac_analysis 
+    work_dir: /media/ebs/runs/v181-rodent_rodent/working
+    log_dir: /media/ebs/runs/v181-rodent_rodent/working/log
+    pipe_config: /media/ebs/runs/v181-rodent_rodent/cpac_pipeline_config_2021-10-26T19-26-11Z.yml
+    replacements:
+  v184_rodent:
+    output_dir: /media/ebs/runs/v184_rodent/output/cpac_analysis
+    work_dir: /media/ebs/runs/v184_rodent/working
+    log_dir: /media/ebs/runs/v184_rodent/working/log
+    pipe_config: /media/ebs/runs/v184_rodent/cpac_pipeline_config_2022-05-06T07-16-12Z.yml
+    replacements:

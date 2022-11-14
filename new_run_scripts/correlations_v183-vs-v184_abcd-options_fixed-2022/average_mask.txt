@@ -1,0 +1,12 @@
+space-template_desc-bold_mask: 0.9907477734164565
+space-bold_desc-brain_mask: 0.9920738843880319
+space-template_label-CSF_mask: 0.9307636535952432
+label-GM_mask: 0.9600229269135402
+space-template_label-GM_mask: 0.9600229269135402
+space-template_label-WM_mask: 0.9651574011148364
+space-T1w_desc-brain_mask: 0.9945170297529863
+label-WM_mask: 0.9651574011148364
+label-CSF_mask: 0.9307636535952432
+label-CSF_desc-preproc_mask: 0.9481522016251039
+label-WM_desc-preproc_mask: 0.9816564284959567
+label-GM_desc-preproc_mask: 0.9611889155044699

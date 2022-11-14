@@ -1,0 +1,10 @@
+space-template_res-derivative_desc-bold_mask: 0.993874836049174
+space-template_desc-bold_mask: 0.993874836049174
+space-bold_desc-brain_mask: 0.9999999999999981
+label-CSF_mask: 0.9999999999999124
+label-GM_desc-preproc_mask: 0.9818138002313761
+label-WM_mask: 0.9999999999999494
+label-WM_desc-preproc_mask: 0.9706070762511736
+label-GM_mask: 0.9999999999999257
+space-T1w_desc-brain_mask: 0.9999999999998826
+label-CSF_desc-preproc_mask: 0.9605479879595652

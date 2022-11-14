@@ -1,0 +1,1 @@
+atlas-Talairachspace-MNI152NLin6res-1x1xdesc-Mean-timeseries.1D: nan

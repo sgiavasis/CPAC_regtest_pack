@@ -1,0 +1,39 @@
+
+These outputs are in v181_rodent, and are either missing in v184_rodent or were not picked up by this script's file parsing:
+
+
+movement-parameters.1D:
+
+    /media/ebs/runs/v182-rodent_rodent/output/cpac_analysis/sub-ag150519a_ses-1/func/sub-ag150519a_ses-1_task-rest_movement-parameters.1D
+
+space-EPItemplate_desc-brain_bold:
+
+    /media/ebs/runs/v182-rodent_rodent/output/cpac_analysis/sub-ag150519a_ses-1/func/sub-ag150519a_ses-1_task-rest_space-EPItemplate_desc-brain_bold.nii.gz
+
+power-params.txt:
+
+    /media/ebs/runs/v182-rodent_rodent/output/cpac_analysis/sub-ag150519a_ses-1/func/sub-ag150519a_ses-1_task-rest_power-params.txt
+
+desc-mean_bold:
+
+    /media/ebs/runs/v182-rodent_rodent/output/cpac_analysis/sub-ag150519a_ses-1/func/sub-ag150519a_ses-1_task-rest_desc-mean_bold.nii.gz
+
+motion-params.txt:
+
+    /media/ebs/runs/v182-rodent_rodent/output/cpac_analysis/sub-ag150519a_ses-1/func/sub-ag150519a_ses-1_task-rest_motion-params.txt
+
+space-bold_desc-brain_mask:
+
+    /media/ebs/runs/v182-rodent_rodent/output/cpac_analysis/sub-ag150519a_ses-1/func/sub-ag150519a_ses-1_task-rest_space-bold_desc-brain_mask.nii.gz
+
+dvars.1D:
+
+    /media/ebs/runs/v182-rodent_rodent/output/cpac_analysis/sub-ag150519a_ses-1/func/sub-ag150519a_ses-1_task-rest_dvars.1D
+
+framewise-displacement-power.1D:
+
+    /media/ebs/runs/v182-rodent_rodent/output/cpac_analysis/sub-ag150519a_ses-1/func/sub-ag150519a_ses-1_task-rest_framewise-displacement-power.1D
+
+framewise-displacement-jenkinson.1D:
+
+    /media/ebs/runs/v182-rodent_rodent/output/cpac_analysis/sub-ag150519a_ses-1/func/sub-ag150519a_ses-1_task-rest_framewise-displacement-jenkinson.1D

@@ -1,0 +1,5 @@
+space-template_desc-brain_T1w: 0.9999999999999991
+desc-brain_T1w: 0.9999999999999207
+desc-preproc_T1w: 0.9999999999998864
+desc-reorient_T1w: 0.9999999999998864
+space-symtemplate_desc-brain_T1w: 0.9999999999999886

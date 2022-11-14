@@ -1,0 +1,4 @@
+space-template_desc-binarized-zstd-1_lfcd: 0.9991405755194945
+space-template_desc-weighted-zstd-1_lfcd: 0.9993627902295208
+space-template_desc-weighted-zstd-2_lfcd: 0.9584100854684064
+space-template_desc-binarized-zstd-2_lfcd: 0.9492346914535669
