@@ -1,0 +1,20 @@
+Wildcard Path	New Filename	Overlay	Timeseries
+anat_reorient_*	desc-reorient_T1w	None	
+anat*skullstrip_*	desc-brain_mask	desc-reorient_T1w	
+CSF_*/overlap_CSF_*_map_with_prior	label-CSF_desc-preprocPrior_mask	desc-reorient_T1w	
+CSF_*/binarize_CSF_*	label-CSF_desc-preproc_mask	desc-reorient_T1w	
+WM_*/overlap_WM_*_map_with_prior	label-WM_desc-preprocPrior_mask	desc-reorient_T1w	
+WM_*/binarize_WM_*	label-WM_desc-preproc_mask	desc-reorient_T1w	
+cpac_sub-*_ses-*/ANTS_T1_to_template_*/anat_mni_ants_register/calc_ants_warp/transform_Warped*	space-template_desc-preproc_T1w	desc-resampled_template	
+resampled_T1w-template/T1w-template	desc-resampled_template	None	
+_scan_*/func_reorient_*	desc-reorient_bold	None	Yes
+_scan_*/combine_masks_*	desc-boldFSLAFNI_mask	desc-reorient_bold	
+_scan_*/func_get_brain_mask_BET_*	desc-boldBET_mask	desc-reorient_bold	
+_scan_*/func_mean_*	desc-mean_bold	None	
+_scan_*/func_get_fmriprep_ref_*	desc-fmriprep_sbref	None	
+_scan_*/unifize_*	desc-unifize_sbref	None	
+func_to_anat_FLIRT_*/_scan_*/linear_func_to_anat	space-T1w_sbref	desc-reorient_T1w	
+func_to_anat_bbreg_*/_scan_*/bbreg_func_to_anat	space-T1w_desc-BBR_sbref	desc-reorient_T1w	
+warp_funcreg-sbref_to_T1wtemplate_*/_scan_*/apply_warp_warp_funcreg-sbref_to_T1wtemplate_*	space-template_sbref	space-template_desc-preproc_T1w	
+_scan_*/applyxfm_func_to_standard_*_/mapflow/_applyxfm_func_to_standard_*	space-template_desc-preproc_bold	space-template_desc-preproc_T1w	
+_scan_*/applyxfm_func_mask_to_standard_*	space-template_desc-bold_mask	space-template_desc-preproc_T1w	
