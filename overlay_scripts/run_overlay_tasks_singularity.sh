@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Check if all required parameters are provided
-if [ "$#" -ne 5 ]; then
-    echo "Usage: $0 sub_ses_workdir cpac_test_repo quickviz_repo singularity_image output_dir"
+if [ "$#" -ne 6 ]; then
+    echo "Usage: $0 sub_ses_workdir cpac_test_repo quickviz_repo singularity_image output_dir home_dir"
     exit 1
 fi
 
@@ -12,10 +12,11 @@ cpac_test_repo="$2"
 quickviz_repo="$3"
 singularity_image="$4"
 output_dir="$5"
+home_dir="$6"
 
 # Execute Singularity commands
 # Command 1
-singularity exec -B /home/sgiavasi:/home/sgiavasi \
+singularity exec -B "${home_dir}:${home_dir} \
                  -B "${cpac_test_repo}:/container/cpac_regtest_pack_repo" \
                  -B "${sub_ses_workdir}:${sub_ses_workdir}" \
                  -B "${output_dir}:/container/output_dir" \
@@ -26,7 +27,7 @@ singularity exec -B /home/sgiavasi:/home/sgiavasi \
                  /container/output_dir
 
 # Command 2
-singularity exec -B /home/sgiavasi:/home/sgiavasi \
+singularity exec -B "${home_dir}:${home_dir} \
                  -B "${cpac_test_repo}:/container/cpac_regtest_pack_repo" \
                  -B "${quickviz_repo}:/container/quickviz_repo" \
                  -B "${output_dir}:/container/output_dir" \
@@ -37,7 +38,7 @@ singularity exec -B /home/sgiavasi:/home/sgiavasi \
                  /container/quickviz_repo/code
 
 # Command 3
-singularity exec -B /home/sgiavasi:/home/sgiavasi \
+singularity exec -B "${home_dir}:${home_dir} \
                  -B "${cpac_test_repo}:/container/cpac_regtest_pack_repo" \
                  -B "${output_dir}:/container/output_dir" \
                  "${singularity_image}" \
