@@ -1,10 +1,19 @@
 Wildcard Path	New Filename	Overlay	Timeseries
 anat_reorient_*	desc-reorient_T1w	None	
-anat*skullstrip_*	desc-brain_mask	desc-reorient_T1w	
+acpc_align_*/anat_acpc_6_applywarp	desc-acpc_T1w	None	
+anat_preproc_freesurfer_*/anat_freesurfer/recon_all/mri/wmparc*	wmparc	desc-reorient_T1w	
+anat_preproc_freesurfer_*/anat_freesurfer/recon_all/mri/wmparc*	desc-acpc_wmparc	desc-acpc_T1w	
+fnirt_based_brain_extraction_*/apply_inv_warp	desc-brainFNIRT_mask	desc-reorient_T1w	
+fnirt_based_brain_extraction_*/apply_mask	desc-brainFNIRT_T1w	desc-reorient_T1w	
+fnirt_based_brain_extraction_*/apply_inv_warp	desc-acpcFNIRT_mask	desc-acpc_T1w	
+fnirt_based_brain_extraction_*/apply_mask	desc-acpcFNIRT_T1w	desc-acpc_T1w	
+anat_skullstrip_*	desc-brain_mask	desc-reorient_T1w	
+anat_BET_skullstrip_*	desc-brainFSLBET_mask	desc-reorient_T1w	
 CSF_*/overlap_CSF_*_map_with_prior	label-CSF_desc-preprocPrior_mask	desc-reorient_T1w	
 CSF_*/binarize_CSF_*	label-CSF_desc-preproc_mask	desc-reorient_T1w	
 WM_*/overlap_WM_*_map_with_prior	label-WM_desc-preprocPrior_mask	desc-reorient_T1w	
 WM_*/binarize_WM_*	label-WM_desc-preproc_mask	desc-reorient_T1w	
+func_to_anat_bbreg_*/wm_bb_mask	label-WM_desc-BBR_mask	desc-reorient_T1w	
 cpac_sub-*_ses-*/ANTS_T1_to_template_*/anat_mni_ants_register/calc_ants_warp/transform_Warped*	space-template_desc-preproc_T1w	desc-resampled_template	
 resampled_T1w-template/T1w-template	desc-resampled_template	None	
 _scan_*/func_reorient_*	desc-reorient_bold	None	Yes
@@ -18,3 +27,7 @@ func_to_anat_bbreg_*/_scan_*/bbreg_func_to_anat	space-T1w_desc-BBR_sbref	desc-re
 warp_funcreg-sbref_to_T1wtemplate_*/_scan_*/apply_warp_warp_funcreg-sbref_to_T1wtemplate_*	space-template_sbref	space-template_desc-preproc_T1w	
 _scan_*/applyxfm_func_to_standard_*_/mapflow/_applyxfm_func_to_standard_*	space-template_desc-preproc_bold	space-template_desc-preproc_T1w	
 _scan_*/applyxfm_func_mask_to_standard_*	space-template_desc-bold_mask	space-template_desc-preproc_T1w	
+post_freesurfer_*/T1w/aparc+aseg.*	desc-postFS_aparc+aseg	None	
+post_freesurfer_*/T1w	desc-postFS_mask	None	
+post_freesurfer_*/MNINonLinear/Results/task-*/task-*_AtlasSubcortical_s2.nii.gz	desc-postFS_AtlasSubcortical_s2	None	Yes
+_scan_*/connectivity_parcellation_*	connectivity_parcellation	None	
