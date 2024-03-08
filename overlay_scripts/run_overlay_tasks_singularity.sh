@@ -16,7 +16,7 @@ home_dir="$6"
 
 # Execute Singularity commands
 # Command 1
-singularity exec -B "${home_dir}:${home_dir} \
+singularity exec -B "${home_dir}:${home_dir}" \
                  -B "${cpac_test_repo}:/container/cpac_regtest_pack_repo" \
                  -B "${sub_ses_workdir}:${sub_ses_workdir}" \
                  -B "${output_dir}:/container/output_dir" \
@@ -27,7 +27,7 @@ singularity exec -B "${home_dir}:${home_dir} \
                  /container/output_dir
 
 # Command 2
-singularity exec -B "${home_dir}:${home_dir} \
+singularity exec -B "${home_dir}:${home_dir}" \
                  -B "${cpac_test_repo}:/container/cpac_regtest_pack_repo" \
                  -B "${quickviz_repo}:/container/quickviz_repo" \
                  -B "${output_dir}:/container/output_dir" \
@@ -38,7 +38,7 @@ singularity exec -B "${home_dir}:${home_dir} \
                  /container/quickviz_repo/code
 
 # Command 3
-singularity exec -B "${home_dir}:${home_dir} \
+singularity exec -B "${home_dir}:${home_dir}" \
                  -B "${cpac_test_repo}:/container/cpac_regtest_pack_repo" \
                  -B "${output_dir}:/container/output_dir" \
                  "${singularity_image}" \
