@@ -17,19 +17,18 @@ def process_files(root_dir, tsv_file, output_dir):
         files = glob.glob(os.path.join(wildcard_path, '*.nii')) + glob.glob(os.path.join(wildcard_path, '*.nii.gz')) + \
                 glob.glob(f"{wildcard_path}*.nii*")
 
-        # If files are found for this wildcard path, process the first one and move to the next wildcard path
-        if files:
-            file = files[0]  # Take the first file found
+        for idx, file in enumerate(files):
+            #file = files[0]  # Take the first file found
             # Extract subject ID and scan ID from the path
             subject_id = file.split('cpac_sub-')[1].split('/')[0]
             scan_id = file.split('_scan_')[1].split('/')[0] if '_scan_' in file else None
 
             # Construct the new filename
-            new_filename = f"{subject_id}_{row['New Filename']}"
+            #new_filename = f"{subject_id}_{row['New Filename']}"
             if scan_id:
-                new_filename = f"sub-{subject_id}_scan-{scan_id}_{row['New Filename']}"
+                new_filename = f"sub-{subject_id}_scan-{scan_id}_variant-{idx}_{row['New Filename']}"
             else:
-                new_filename = f"sub-{subject_id}_{row['New Filename']}"
+                new_filename = f"sub-{subject_id}_variant-{idx}_{row['New Filename']}"
 
             # Copy the file to the output directory with the new filename
             if 'nii.gz' in file:
@@ -41,10 +40,16 @@ def process_files(root_dir, tsv_file, output_dir):
             
             if row['Timeseries'] == 'Yes':
                 subprocess.run(['3dcalc', '-a', f"{file}[0]", '-expr', 'a', '-prefix', new_file])
+            elif row['Timeseries'] == 'Mean':
+                subprocess.run(['3dTstat', '-mean', '-prefix', new_file, file])
             else:
                 shutil.copy(file, new_file)
             
             print(f"Copied {file} to {new_filename}")
+            
+            if row['Post-Mask'] == 'Yes':
+                subprocess.run(['mv', new_file, 'temp.nii.gz'])
+                subprocess.run(['3dSkullStrip', '-input', 'temp.nii.gz', '-prefix', new_file]) 
 
             # Move to the next wildcard path
             continue

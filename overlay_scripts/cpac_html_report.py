@@ -25,12 +25,12 @@ def generate_html(output_dir, tsv_file):
             for file in os.listdir(output_dir):
                 if new_filename in file and file.endswith('.png'):
                     # Write an image tag for each PNG file with its title based on the filename
-                    html_file.write(f'<h2>{new_filename}</h2>\n')
+                    html_file.write(f'<h2>{file}</h2>\n')
                     html_file.write(f'<img src="{file}" alt="{file}">\n')
 
                     # Move PNG files to the new sub-directory
                     shutil.move(os.path.join(output_dir, file), os.path.join(html_dir, file))
-                    break
+                    #break
 
         html_file.write('</body>\n</html>')
 

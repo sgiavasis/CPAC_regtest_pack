@@ -14,6 +14,11 @@ singularity_image="$4"
 output_dir="$5"
 home_dir="$6"
 
+if [ ! -d "$output_dir" ]; then
+    # Create the directory
+    mkdir -p "$output_dir"
+fi
+
 # Execute Singularity commands
 # Command 1
 singularity exec -B "${home_dir}:${home_dir}" \
